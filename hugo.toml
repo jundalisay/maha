@@ -71,14 +71,16 @@ DefaultContentLanguageInSubdir = false
     [languages.en.params.change]
       intro = "A Total Change"
       youtube = [
-        { url = "r0Tkma5fkrg", title = "From Poor"},
+        { url = "f_H98cQ1QAY", title = "From Poor"},
         { url = "r0Tkma5fkrg", title = "To Prosperous"}
       ]
+      # prosperity https://youtu.be/U8MD8ix-r9Y
+      # slum drone shot https://youtu.be/f_H98cQ1QAY
 
     [languages.en.params.book]
       intro = "Read the Book"
       img = "/books/towards.jpg"
-      sub = "Maharlikanism is explained in the book Towards Maharlika, available on the Play Store"
+      sub = "Maharlikanism is explained in the book <i>Towards Maharlika</i>, available on the Play Store"
       url = "https://play.google.com/store/books/details?id=T-H4DwAAQBAJ&pli=1"
 
     [languages.en.params.cards]
@@ -108,26 +110,16 @@ DefaultContentLanguageInSubdir = false
         { img = "/graphics/bayanihan.jpg", title = "The Bayanihan Economy", url ="/economics/barter" },
       ]
 
-    # [languages.en.params.cards.a]
-    #   icon = "/icons/sun.png"
-    #   title = "Constitutional Virtues"
-    #   sub = "A New, Systemic Moral Foundation"
-      
-    # [languages.en.params.cards.b]
-    #   icon = "/icons/stars.png"
-    #   title = "Federalism with Bicameral Parliament"
-    #   sub = "Democracy with a Focus"
-    #   url = "/governance/federalism""
 
     [languages.en.params.tricon]
       title = "Specific Action Steps"
       # sub = "The analog universe streams in real-definition to create reality"
       youtube = "JLGMATjNW0c"
       cards = [
-        { img= "/photos/medieval/lapu.jpg", title = "What is Maharlika?", url = "/history/meanings-maharlika", sub = "A small country where great things come from" },
-        { img= "/photos/idea.jpg", title = "What is Maharlikanism?", url = "/advocacy/maharlikanism", sub = "A plan bring back the Philippines to its true state" },
+        { img= "/photos/medieval/lapu.jpg", title = "Constitutional Virtues", url = "/history/meanings-maharlika", sub = "A New, Systemic Moral Foundation" },
+        { img= "/photos/idea.jpg", title = "Federalism with Bicameral Parliament", url = "/governance/federalism", sub = "Democracy with a Focus" },
         { img= "/photos/objects/galleon.jpg", title = "Pigafetta's Accounts", url = "/history/pigafetta/simplified-pigafetta", sub = "What did the Spanish say about Maharlika?" },
-        { img= "/photos/psych/heart.jpg", title = "What are Constitutional Virtues?", url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/", sub = "The foundations of civilization" }
+        { img= "/photos/objects/gold.jpg", title = "The Fourth Branch of Government", url = "/social/supersociology/solutions/constitutional-virtues/", sub = "The Resources Branch" }
       ]
       
 
@@ -515,15 +507,15 @@ pagerSize = 24
 [[params.social]]
   name = "Facebook"
   icon = "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-brand-facebook' width='30' height='30' viewBox='0 0 24 24' stroke-width='2' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'> <path stroke='none' d='M0 0h24v24H0z' fill='none'></path> <path d='M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3'></path> </svg>"
-  url = "https://www.facebook.com/pantrypoints"
+  url = "https://www.facebook.com/maharlikanism/"
 [[params.social]]
   name = "Youtube"
   icon = "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-brand-youtube' width='30' height='30' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round' > <path stroke='none' d='M0 0h24v24H0z' fill='none' /> <circle cx='12' cy='12' r='9' /> <path d='M10 9l5 3l-5 3z' /> </svg>"
-  url = "https://www.youtube.com/@pantrypoints"
-[[params.social]]
-  name = "Twitter"
-  icon = "<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round' > <path stroke='none' d='M0 0h24v24H0z' fill='none' /> <path d='M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z'/> </svg>"
-  url = "https://x.com/pantrypoints"
+  url = "https://www.youtube.com/@maharlikanism"
+# [[params.social]]
+#   name = "Twitter"
+#   icon = "<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round' > <path stroke='none' d='M0 0h24v24H0z' fill='none' /> <path d='M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z'/> </svg>"
+#   url = "https://x.com/pantrypoints"
 
 
 
