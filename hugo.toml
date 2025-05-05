@@ -1,0 +1,541 @@
+baseurl = "https://maharlika.superphysics.org"
+title = "Maharlikanism"
+languageCode = 'en-us'
+theme = "super"
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    contentDir = "content/en/" #English
+    weight = 1
+    languageName = "English"
+    [[languages.en.menu.main]]
+        name = "Advocacy"
+        url = "advocacy"
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "Advocacy"
+        url = "advocacy"
+        weight = 1
+    [[languages.en.menu.main]]
+        identifier = "sp"
+        name = "Writers"
+        url = "writers"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "Politicians"
+        url = "politicians"
+        weight = 3
+    [[languages.en.menu.main]]
+        name = "Metaphysics"
+        url = "metaphysics"
+        weight = 4
+    [[languages.en.menu.main]]
+        name = "Governance"
+        url = "governance"
+        weight = 5
+    [[languages.en.menu.main]]
+        name = "Economics"
+        url = "economics"
+        weight = 6
+    [[languages.en.menu.main]]
+        name = "Culture"
+        url = "culture"
+        weight = 9
+    [[languages.en.menu.main]]
+        name = "FAQs"
+        url = "faqs"
+        weight = 11
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 14
+    [[languages.en.menu.main]]
+        name = "Help!"
+        # name = "/icons/heart.png"
+        url = "help/"
+        weight = 15
+
+    [languages.en.params]
+      # title = "M"
+      heading = "An advocacy to change the name, culture, and socio-economics of"
+      ph = "The Philippines"
+      into = "into"
+      mh = "Maharlika"
+      sub = "Our main adocacies"
+      banner = "/photos/flag.jpg"
+      youtube = "DUQVO9ZCCg8"
+      # youtube = "PjQjps9DTXw"
+
+    [languages.en.params.change]
+      intro = "A Total Change"
+      youtube = [
+        { url = "r0Tkma5fkrg", title = "From Poor"},
+        { url = "r0Tkma5fkrg", title = "To Prosperous"}
+      ]
+
+    [languages.en.params.book]
+      intro = "Read the Book"
+      img = "/books/towards.jpg"
+      sub = "Maharlikanism is explained in the book Towards Maharlika, available on the Play Store"
+      url = "https://play.google.com/store/books/details?id=T-H4DwAAQBAJ&pli=1"
+
+    [languages.en.params.cards]
+      intro = "Based on Social Superphysics"
+      cards = [
+        { img = "/icons/spss.png", url = "https://superphysics.org", title = "What's Social Superphysics?", sub = "Sociology merged with Metaphysics" },
+        { img = "/icons/specon.png", url = "https://superphysics.org", title = "The Law of Social Cycles for Social Change", sub = "Worker, Warrior, Thinker, Trader"},
+        { img = "/icons/heart.png", url = "https://superphysics.org", title = "The Effort Theory of Value for Economics", sub = "Economic Bayanihan System"}
+      ]
+
+    [[languages.en.params.quote]]
+      content = "With the new men that sprout from their bosom and with the memory of their past, they will work together to strengthen their country, resurrect the maritime and mercantile life natural to them. This and other things may happen within a hundred years or so."
+      icon = "Jose Rizal"
+      author = "Jose Rizal"
+      src = "The Philippines 100 Years From Now"
+      url = "/writers/rizal/dentro/part-4"
+
+    [languages.en.params.duo]
+      title = "A New Identity for a New Future"
+      sub = "The Europeans destroyed the natural identity of Maharlika, causing so many problems that persist today"
+      # text = "Read how the Inca system worked"
+      # url = "https://gizmodo.com/the-greatest-mystery-of-the-inca-empire-was-its-strange-1198541254"
+      banner = "/photos/barter.jpg"
+      color = "bg-gradient-to-r from-blue-400 to-green-800 dark:bg-blue-800 hover:bg-green text-white dark:text-white hover:from-cyan-600 hover:to-blue-600 hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cyan-500 transition duration-300 ease-in-out transform hover:-translate-y-0.5 dark:from-cyan-600 dark:to-blue-600 dark:hover:from-cyan-700 dark:hover:to-blue-700"
+      cards = [
+        { img = "/photos/medieval/lapu.jpg", title = "What is Maharlika?", url ="/history/meanings-maharlika" },
+        { img = "/graphics/bayanihan.jpg", title = "The Bayanihan Economy", url ="/economics/barter" },
+      ]
+
+    # [languages.en.params.cards.a]
+    #   icon = "/icons/sun.png"
+    #   title = "Constitutional Virtues"
+    #   sub = "A New, Systemic Moral Foundation"
+      
+    # [languages.en.params.cards.b]
+    #   icon = "/icons/stars.png"
+    #   title = "Federalism with Bicameral Parliament"
+    #   sub = "Democracy with a Focus"
+    #   url = "/governance/federalism""
+
+    [languages.en.params.tricon]
+      title = "Specific Action Steps"
+      # sub = "The analog universe streams in real-definition to create reality"
+      youtube = "JLGMATjNW0c"
+      cards = [
+        { img= "/photos/medieval/lapu.jpg", title = "What is Maharlika?", url = "/history/meanings-maharlika", sub = "A small country where great things come from" },
+        { img= "/photos/idea.jpg", title = "What is Maharlikanism?", url = "/advocacy/maharlikanism", sub = "A plan bring back the Philippines to its true state" },
+        { img= "/photos/objects/galleon.jpg", title = "Pigafetta's Accounts", url = "/history/pigafetta/simplified-pigafetta", sub = "What did the Spanish say about Maharlika?" },
+        { img= "/photos/psych/heart.jpg", title = "What are Constitutional Virtues?", url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/", sub = "The foundations of civilization" }
+      ]
+      
+
+## mat law
+    [languages.en.params.tricon2]
+      # heading = "The Soul of the Physical Universe"
+      title = "Politics and Law"
+      sub = "Philippines versus Maharlika"
+      # youtube = "3l9J6tH4iD0"
+      icon = "/icons/quill.png"
+      # link= "/material/principles"
+    [languages.en.params.tricon2.items.a]
+      url = "/governance/federalism"
+      img= "/photos/medieval/maharlika.jpg"
+      title = "Why Federalism?"
+      sub = "Maharlika was a confederation of semi-independent states"
+    [languages.en.params.tricon2.items.b]
+      url = "/history/colonialism/"
+      img= "/photos/medieval/magellan.jpg"
+      title = "How Did Colonizers Get a Foothold?"
+      sub = "How Divide and Conquer Works"
+    [languages.en.params.tricon2.items.c]
+      url= "/metaphysics/democracy-is-bad"
+      img = "/photos/psych/freedom.jpg"
+      title = "Why is Democracy Bad?"
+      sub = "Maharlika was already Democratic"
+    [languages.en.params.tricon2.items.d]
+      url = "/metaphysics/marcos-aquino-rivalry"
+      img = "/photos/coryv.jpg"
+      title = "The Marcos-Aquino Rivalry"
+      sub = "Conservative vs Liberal"
+
+      ## bio econ
+    [languages.en.params.tricon3]
+      title = "Economics"
+      sub = "Bayanihan as an Economic System"
+      # youtube= "Y6YKmtqJak4"
+      icon = "/icons/help.png"
+    [languages.en.params.tricon3.items.b]
+      url = "/economics/maharlika-2050/"
+      img= "/graphics/econ/eq.jpg"
+      title = "Maharlika 2050"
+      sub = "Transition to an Advanced Country"
+    [languages.en.params.tricon3.items.c]
+      url = "/governance/fourth-branch-government/"
+      img= "/photos/balancerock.jpg"
+      title = "The Fourth Branch of Government"
+      sub = "The Resources Department"
+    [languages.en.params.tricon3.items.d]
+      url = "/metaphysics/poor-philippines/"
+      img= "/photos/social/poverty.jpg"
+      title = "Why the Philippines is Poor"
+      sub = "How Low Morals Causes Chronic Poverty"
+
+
+    [languages.en.params.tricon4]
+      # heading = "The Soul of Society"
+      title = "Culture and the Arts"
+      sub = "Maharlikan Puso or Heart"
+      # youtube = "AfByl9Mywi4"
+      icon = "/icons/pen.png"
+    [languages.en.params.tricon4.items.a]
+      url = "/infrastructure/climate-change"
+      img = "/photos/flood.jpg"
+      title = "How Maharlika Dealt with Climate Change"
+      sub = "By Prediction and Mitigation"
+    [languages.en.params.tricon4.items.b]
+      url = "/culture/war-adobo"
+      img = "/photos/food/adobopork.jpg"
+      title = "War on Adobo"
+      sub = "Maharlikan Food versus Philippine Food"
+    [languages.en.params.tricon4.items.c]
+      url = "/culture/war-adobo/"
+      img= "/photos/basket.jpg"
+      title = "Bayong Ball"
+      sub = "Basketball for short people"
+
+
+
+  [languages.tl]
+    contentDir = "content/tl"
+    weight = 2
+    languageName = "Tagalog"
+    [[languages.en.menu.main]]
+        name = "Advocacy"
+        url = "advocacy"
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "Advocacy"
+        url = "advocacy"
+        weight = 1
+    [[languages.en.menu.main]]
+        identifier = "sp"
+        name = "Writers"
+        url = "writers"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "Politicians"
+        url = "politicians"
+        weight = 3
+    [[languages.en.menu.main]]
+        name = "Metaphysics"
+        url = "metaphysics"
+        weight = 4
+    [[languages.en.menu.main]]
+        name = "Governance"
+        url = "governance"
+        weight = 5
+    [[languages.en.menu.main]]
+        name = "Economics"
+        url = "economics"
+        weight = 6
+    [[languages.en.menu.main]]
+        name = "Culture"
+        url = "culture"
+        weight = 9
+    [[languages.en.menu.main]]
+        name = "FAQs"
+        url = "faqs"
+        weight = 11
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 14
+    [[languages.en.menu.main]]
+        name = "Help!"
+        # name = "/icons/heart.png"
+        url = "help/"
+        weight = 15
+
+
+    [languages.tl.params]
+      heading = "Isang adbokasiya upang baguhin ang pangalan, kultura, at sosyo-ekonomiya ng Pilipinas tungo sa Maharlika"
+      intro = "Maharlika at Maharlikanism"
+      sub = "Ang aming adbokasya"
+      banner = "/photos/flag.jpg"
+      youtube = "9a99XWmTG0k"
+
+    [languages.tl.params.tricon1]
+      title = "Adbokasiya at Kasaysayan"
+      sub = "Mga pangunahing adbokasiya namin"
+      icon = "/icons/shield.png"
+    [languages.tl.params.tricon1.items.a]
+      url = "/tl/history/meanings-maharlika"
+      img= "/photos/medieval/lapu.jpg"
+      title = "Ano ang Maharlika?"
+      sub = "Isang maliit na bansa kung saan nagmumula ang mga dakilang bagay."
+    [languages.tl.params.tricon1.items.b]
+      url = "/advocacy/maharlikanism"
+      img = "/photos/idea.jpg"
+      title = "Ano ang Maharlikanism?"
+      sub = "Isang plano upang ibalik ang Pilipinas sa kanyang tunay na kalagayan."
+    [languages.tl.params.tricon1.items.c]
+      url = "/history/pigafetta/simplified-pigafetta"
+      img = "/photos/objects/galleon.jpg"
+      title = "Ang mga Kuwento ni Pigafetta"
+      sub = "Ano ang sinabi ng mga Kastila tungkol sa Maharlika?"
+    [languages.tl.params.tricon1.items.d]
+      url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
+      img = "/photos/psych/heart.jpg"
+      title = "Konstitusyonal na Birtud"
+      sub = "Isang Bagong, Sistemikong Moral na Batayan"
+
+    [languages.tl.params.tricon2]
+      # heading = "The Soul of the Physical Universe"
+      title = "Politika at Batas"
+      sub = "Pilipinas kontra Maharlika"
+      # youtube = "3l9J6tH4iD0"
+      icon = "/icons/quill.png"
+      # link= "/material/principles"
+    [languages.tl.params.tricon2.items.a]
+      url = "/governance/federalism"
+      img= "/photos/medieval/maharlika.jpg"
+      title = "Bakit Pederalismo?"
+      sub = "Ang Maharlika ay isang konfederasyon ng mga semi-independiyenteng estado" 
+    [languages.tl.params.tricon2.items.b]
+      url = "/history/colonialism/"
+      img= "/photos/medieval/magellan.jpg"
+      title = "Paano Nakakuha ng Tunguhing Pook ang mga Kolonisador?"
+      sub = "Paano Gumagana ang Paghihiwa-hiwalay at Pananakop"
+    [languages.tl.params.tricon2.items.c]
+      url= "/metaphysics/democracy-is-bad"
+      img = "/photos/psych/freedom.jpg"
+      title = "Bakit Masama ang Demokrasya?"
+      sub = "Ang Maharlika ay mayroon nang Demokrasya"
+    [languages.tl.params.tricon2.items.d]
+      url = "/metaphysics/marcos-aquino-rivalry"
+      img = "/photos/coryv.jpg"
+      title = "Ang Rivalidad ni Marcos at Aquino"
+      sub = "Konserbatibo vs Liberal"
+
+    [languages.tl.params.tricon3]
+      # heading = "The Soul of Living Entities"
+      title = "Ekonomiyang Maharlikano"
+      sub = "Bayanihan bilang isang Sistemang Pang-ekonomiya"
+      icon = "/icons/economic.png"
+# Ano ang Konstitusyonal na mga Birtud? Ang mga pundasyon ng sibilisasyon.
+# Pederalismo na may Bicameral Parliament. Demokrasya na may Pokus.
+# Bayanihan Economy. Ekonomikong Pag-unlad nang walang Krisis.
+
+    [languages.tl.params.tricon3.items.b]
+      url = "/economics/maharlika-2050/"
+      img= "/graphics/econ/eq.jpg"
+      title = "Maharlika 2050"
+      sub = "Transisyon patungo sa isang Maunlad na Bansa"
+    [languages.tl.params.tricon3.items.c]
+      url = "/governance/fourth-branch-government/"
+      img= "/photos/balancerock.jpg"
+      title = "Ang Ika-apat na Sangay ng Pamahalaan"
+      sub = "Ang Kagawaran ng mga Yaman"
+    [languages.tl.params.tricon3.items.d]
+      url = "/metaphysics/poor-philippines/"
+      img= "/photos/social/poverty.jpg"
+      title = "Bakit Mahirap ang Pilipinas"
+      sub = "Paano ang Mababang Moral ay Sanhi ng Kronicong Kahirapan"
+
+    [languages.tl.params.tricon4]
+      # heading = "The Soul of Society"
+      title = "Kultura at Sining"
+      sub = "Maharlikang Puso o Puso"
+      # youtube = "AfByl9Mywi4"
+      icon = "/icons/pen.png"
+    [languages.tl.params.tricon4.items.b]
+      url = "/infrastructure/climate-change"
+      img = "/photos/flood.jpg"
+      title = "Paano Nakipaglaban ang Maharlika sa Pagbabago ng Klima"
+      sub = "Sa pamamagitan ng Pagsusuri at Pag-aantabay"
+    [languages.tl.params.tricon4.items.c]
+      url = "/culture/war-adobo"
+      img = "/photos/food/adobopork.jpg"
+      title = "Laban Kontra Adobo"
+      sub = "Maharlikang Pagkain kontra Pagkain ng Pilipinas"
+    [languages.tl.params.tricon4.items.d]
+      url = "/culture/war-adobo/"
+      img= "/photos/basket.jpg"
+      title = "Bayong Ball"
+      sub = "Basketball para sa mga taong maikli"
+
+  [languages.cb]
+    contentDir = "content/cb/" #English
+    weight = 1
+    languageName = "Cebuano"
+    [[languages.en.menu.main]]
+        name = "Advocacy"
+        url = "advocacy"
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "Advocacy"
+        url = "advocacy"
+        weight = 1
+    [[languages.en.menu.main]]
+        identifier = "sp"
+        name = "Writers"
+        url = "writers"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "Politicians"
+        url = "politicians"
+        weight = 3
+    [[languages.en.menu.main]]
+        name = "Metaphysics"
+        url = "metaphysics"
+        weight = 4
+    [[languages.en.menu.main]]
+        name = "Governance"
+        url = "governance"
+        weight = 5
+    [[languages.en.menu.main]]
+        name = "Economics"
+        url = "economics"
+        weight = 6
+    [[languages.en.menu.main]]
+        name = "Culture"
+        url = "culture"
+        weight = 9
+    [[languages.en.menu.main]]
+        name = "FAQs"
+        url = "faqs"
+        weight = 11
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 14
+    [[languages.en.menu.main]]
+        name = "Help!"
+        # name = "/icons/heart.png"
+        url = "help/"
+        weight = 15
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = false
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      inline = false
+      keepCSS2 = true
+      precision = 0
+    [minify.tdewolff.html]
+      keepComments = false
+      keepConditionalComments = false
+      keepDefaultAttrVals = true
+      keepDocumentTags = true
+      keepEndTags = true
+      keepQuotes = false
+      keepSpecialComments = true
+      keepWhitespace = false
+      templateDelims = ['', '']
+    [minify.tdewolff.js]
+      keepVarNames = false
+      precision = 0
+      version = 2022
+    [minify.tdewolff.json]
+      keepNumbers = false
+      precision = 0
+    [minify.tdewolff.svg]
+      inline = false
+      keepComments = false
+      precision = 0
+    [minify.tdewolff.xml]
+      keepWhitespace = false
+
+# paginate = 12
+
+[pagination]
+pagerSize = 24
+
+
+
+[params]
+  logo = "/icons/pantry50.png"
+  
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+  
+  # Enable search in header
+  enableSearch = true
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2025 | <a class='text-white dark:text-white' href='/company/'>Pantrypoints Technologies</a> | Based on <a class='text-white dark:text-white' href='https://www.superphysics.org'>Superphysics</a>"
+  favicon = "/icons/pantry50.png"
+
+  ascentColor = "bg-blue-100"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "blog"
+
+  # Used to hide the post metadata such as posted date, reading time and word count
+  # Can be used at site level or page level
+  hideMeta = false
+
+  # To hide "Other languages" option if the post is available in multiple languages
+  # Can be used at site level or page level
+  hideOtherLanguages = false
+
+  # Add support for Table of contents
+  # Can be added to a page level also in markdown frontmatter
+  toc = true
+
+
+  hidePageThumbnail = false
+
+
+[build]
+  writeStats = true
+
+
+[[params.social]]
+  name = "Facebook"
+  icon = "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-brand-facebook' width='30' height='30' viewBox='0 0 24 24' stroke-width='2' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'> <path stroke='none' d='M0 0h24v24H0z' fill='none'></path> <path d='M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3'></path> </svg>"
+  url = "https://www.facebook.com/pantrypoints"
+[[params.social]]
+  name = "Youtube"
+  icon = "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-brand-youtube' width='30' height='30' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round' > <path stroke='none' d='M0 0h24v24H0z' fill='none' /> <circle cx='12' cy='12' r='9' /> <path d='M10 9l5 3l-5 3z' /> </svg>"
+  url = "https://www.youtube.com/@pantrypoints"
+[[params.social]]
+  name = "Twitter"
+  icon = "<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round' > <path stroke='none' d='M0 0h24v24H0z' fill='none' /> <path d='M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z'/> </svg>"
+  url = "https://x.com/pantrypoints"
+
+
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+timeout = "300s"
+ignoreLogs = ['warning-goldmark-raw-html']
+enableEmoji = true

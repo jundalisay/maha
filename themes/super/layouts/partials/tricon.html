@@ -1,0 +1,37 @@
+<section class="my-6 p-6">
+  <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12">
+    <small style="text-transform: uppercase;">{{ .Heading }}</small>    
+    <h2 class="text-4xl font-bold">{{ .Title }}</h2>
+    <p class="text-lg mb-6">{{ .Sub }}</small>
+    
+    {{ with .Youtube }}
+      
+      <div class="aspect-w-16 aspect-h-9 py-4 max-w-sm my-2 mx-auto" style="height: max-content !important;">
+        <iframe class="w-full" style="aspect-ratio: 16 / 9 !important;" frameborder="0" src="https://www.youtube.com/embed/{{ . }}?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      
+    {{ end }}
+  </div>
+
+  <br>
+
+   <div class="py-6 mx-auto p-6 grid lg:grid-cols-4 grid-cols-1 gap-1">
+    {{ range .cards }}
+      <div class="col-span-1 flex flex-col border rounded-xl shadow-xl dark:text-white mx-4 zoom">
+
+<div style="transition: transform 0.3s ease-in-out;" class="bg-white dark:text-gray-900 rounded-lg shadow-lg w-full mx-auto hover:scale-110">
+        <a href="{{ .url }}"> 
+          <img class="rounded-xl h-auto max-w-full object-fill" src="{{ .img }}" alt="{{ .title }}" />
+          <div class="text-center p-4">
+            <h5 class="mb-2 text-xl font-bold leading-none text-black dark:text-black">{{ .title }}</h5>
+            <p class="mb-3 font-normal leading-none">{{ .sub }}</p>
+          </div>      
+        </a>
+      </div>
+      </div>
+    {{ end }}
+  </div>
+
+</section>
+
+

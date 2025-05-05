@@ -1,0 +1,46 @@
+<section class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+  <div class="text-center md:text-left">
+    <h2 class="text-3xl font-bold text-gray-800 dark:text-white mb-4">
+      {{ .intro }}
+    </h2>
+    <p class="text-gray-600 dark:text-gray-300 text-lg mb-6">
+      {{ .sub }}
+    </p>
+    <p class="text-blue-600 dark:text-blue-400 font-semibold text-lg">
+      Explore Now!
+    </p>
+  </div>
+
+  <div class="md:w-1/2 flex justify-center">
+    <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="book-link">
+      <img src="{{ .img }}"  alt="Book Cover" class="book-image rounded-lg shadow-lg w-64 h-auto transition-transform duration-300
+               hover:scale-105" />
+    </a>
+  </div>
+  
+    <script>
+        const bookImage = document.querySelector('.book-image');
+
+        function floatAnimation() {
+            let yOffset = 0;
+            let direction = 1;  // 1 for down, -1 for up
+
+            function animate() {
+                yOffset += 0.5 * direction; // Adjust speed here
+                bookImage.style.transform = `translateY(${yOffset}px)`;
+
+                if (yOffset > 10) { // Adjust float height here
+                    direction = -1;
+                } else if (yOffset < -10) {
+                    direction = 1;
+                }
+
+                requestAnimationFrame(animate);
+            }
+
+            animate();
+        }
+
+        floatAnimation();
+    </script>
+</section>
