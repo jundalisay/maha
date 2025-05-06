@@ -20,8 +20,8 @@ Ang Maharlika ang pangalan ng pre-colonial na confederation na nakabase sa **May
     - "la" (tasa)
     - "ika" (maliit, pambabae)*
 
+{{< n n="Ang pottery ay isa sa sinaunang industriya ng tao. Isa sa mga mitolohiya ng Pilipinas ay ang pagbuo ni Bathala sa mga Maharlikan mula sa lupa na niluto. Ang katamtamang luto ay nagbuo sa Maharlika. Ang mga sunog na luto ay naging mga Negrito. Ang mga hilaw na luto ang naging mga Silangang Asyano." >}}
 
-> *Ang pottery ay isa sa sinaunang industriya ng tao. Isa sa mga mitolohiya ng Pilipinas ay ang pagbuo ni Bathala sa mga Maharlikan mula sa lupa na niluto. Ang katamtamang luto ay nagbuo sa Maharlika. Ang mga sunog na luto ay naging mga Negrito. Ang mga hilaw na luto ang naging mga Silangang Asyano.
 
 Kaya naman, ang Maharlika ay nangangahulugang "isang bansa kung saan nagmumula, o nililikha ang mga dakilang bagay." Ito ay iba sa kahulugan ng "Pilipinas" na nangangahulugang ari-arian ng Haring Philip II ng Espanya. Ang mga katangian ni Haring Philip II ay hindi marangal.
 
@@ -50,11 +50,11 @@ Aliping Namamahay | Shudras
 Aliping Sagigilid | Shudras
 
 
-{{< q a="Rizal">}}
-<p>Timawá signifies now in Tagál: 'in peace,  quietness, tranquil, free', etc. Maginoo, from the root ginoo, 'dignity,' is now the title of the chiefs. The chief's reunion is called 'kaginoóhan'. Colin says that the Chiefs used the title 'gat' or 'lakan', and the women 'dayang'. The title of 'mama' applied now to men, corresponds to 'uncle, Señor, Monsieur, Mr,' etc. and the title 'al' to women.</p>
-<cite>History of the Philippine Islands by Antonio de Morga</cite>
+{{< q a="Jose Rizal">}}
+Timawá signifies now in Tagál: 'in peace,  quietness, tranquil, free', etc. Maginoo, from the root ginoo, 'dignity,' is now the title of the chiefs. The chief's reunion is called 'kaginoóhan'. Colin says that the Chiefs used the title 'gat' or 'lakan', and the women 'dayang'. The title of 'mama' applied now to men, corresponds to 'uncle, Señor, Monsieur, Mr,' etc. and the title 'al' to women.
 {{< /q >}}
 
+<!-- History of the Philippine Islands by Antonio de Morga -->
 
 Dito nanggaling ang kahulugan ng Maharlika na kalayaan. Ito ay madala na naililito sa salitang Indones na merdeka.
 
@@ -72,10 +72,10 @@ Batay sa kahulugan ng Tsino na istoryador na si Chau-ju-kua, ang teritoryo ng Ma
 
 Gayunpaman, walang iisang saligang batas dahil lahat ng isla ay independent:
 
-{{< q >}}
-<p>A ship will not remain at anchor longer than three or four days, after which it proceeds to another place; for the savage settlements along the coast of San-su [Visayas] are not connected by common jurisdiction [i.e. are all independent]</p>
-<cite>Chau Ju Kua</cite>
+{{< q a="Chau Ju Kua" a="Chun Fan Chi">}}
+A ship will not remain at anchor longer than three or four days, after which it proceeds to another place; for the savage settlements along the coast of San-su [Visayas] are not connected by common jurisdiction [i.e. are all independent]</p>
 {{< /q >}}
+
 
 
 Ito ay karaniwan sa mga arkipelago. Halimbawa, ang mga Griyego ay nahahati sa mga city-states - Nakipaglaban ang mga Espartano sa mga Ateniense, at ang mga Ateniense sa mga Thebans. Ngunit tinatawag natin silang lahat na 'mga Griyego'. Hindi natin hinihiwalay ang Sparta sa Athens.
@@ -108,9 +108,8 @@ Ito ay hindi nagpapahalaga ng iyong kakayahan, moralidad, o katalinuhan.
 Para maprotektahan ang trade network na ito, may sariling shared military force ang mga bansang kasapi. 
 
 
-{{< q >}}
-<p>Brunei is a large city with a very large bay.. many canoes, in number 260, were equipped to capture us and came upon us. When we saw them, we left hurriedly, and sailed out of the bay, whereupon we saw some junks coming. We went to them and captured one, in which was a son of the king of Luzon.</p>
-<cite>Pigafetta 1521</cite>
+{{< q a="Antonio Pigafetta" >}}
+Brunei is a large city with a very large bay.. many canoes, in number 260, were equipped to capture us and came upon us. When we saw them, we left hurriedly, and sailed out of the bay, whereupon we saw some junks coming. We went to them and captured one, in which was a son of the king of Luzon.
 {{< /q >}}
 
 
@@ -131,5 +130,3 @@ Ito ang mga nagbigay sa atin ng tatlong magkaibang kahulugan ng Maharlika:
 Mula sa orihinal na Sanskrit, kukunin natin ang totoong kahulugan na: "maliit na bansa kung saan nagmumula ang mga dakilang bagay".
 
 Sa bansang ito nagmumula ang mga dakilang katangian ng karangalan, kalayaan, at katapangan. 
-
-

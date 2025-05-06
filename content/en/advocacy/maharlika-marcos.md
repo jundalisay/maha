@@ -9,6 +9,7 @@ icon: /icons/sun.png
 ---
 
 
+
 Ferdinand Marcos was the dictator who used Maharlika for nationalist or political purposes, as part of his utopian Bagong Lipunan (New Society). This includes naming his projects as Maharlika:
 - Maharlika Hall is the reception area of the Malacanang Palace
 - Maharlika Highway is a major road network

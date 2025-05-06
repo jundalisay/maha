@@ -6,12 +6,12 @@
 
 <!-- shows a list else shows landing -->
 
-{{ $allowedSections := slice "news" "writers" "advocacy" "economics" "politicians" "metaphysics" "governance" "infrastructure" "laws" "culture" "history" }}
+{{ $allowedSections := slice "tags" "news" "writers" "advocacy" "economics" "politicians" "metaphysics" "governance" "infrastructure" "laws" "culture" "history" }}
 {{ if in $allowedSections .Section }}
 
   <div class="container px-6 pt-8 sm:pt-16 mx-auto"> 
-    <h1 class="container text-3xl font-bold">{{ .Title }}</h1>
-    <h2 class="container text-xl ">{{ .Description }}</h2>
+    <h1 class="container text-3xl dark:text-white font-bold">{{ .Title }}</h1>
+    <h2 class="container text-xl dark:text-white">{{ .Description }}</h2>
 
       <div id="breadcrumbs" class="text-gray-700 dark:text-gray-100 mb-4" style="text-decoration: none;">
         <small>

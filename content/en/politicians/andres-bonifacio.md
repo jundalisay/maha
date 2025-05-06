@@ -51,14 +51,14 @@ In a nutshell, pro-Spanish/American Philippines has Jose Rizal as its hero. Thes
 
 Rizal did not believe in the capabilities of the masses at all:
 
-{{< q a="Rizal" c="Part 3, Filipinas Dentro De Cien Años" >}}
+{{< q a="Jose Rizal" c="Part 3, Filipinas Dentro De Cien Años" >}}
 If the Philippines is to stay under Spain, its politics must change as demanded by Filipinos. This transformation will be violent and fatal if it starts from the masses, but peaceful and fruitful if it starts from the upper classes.
 {{< /q >}}
 
 
 Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers as OFWs* which are modern-day slaves or *aliping namamahay* such as lowly-paid maids who live in their foreign master's condo. 
 
-> *Overseas Felipe-no Worker, where the 'King Felipes' are the wealthy foreigners
+{{< n n="*Overseas Felipe-no Worker, where the 'King Felipes' are the wealthy foreigners" >}}
 
 
 On the other hand, Katagalugans (River People) or Maharlikans (free people) have Andres Bonifacio as their national hero. These are free from foreign and vested interests, just as rivers flow freely according to their national interests. 
@@ -82,4 +82,3 @@ Profiteering | A [government-run Lazada or Shopee](https://pantrypoints/trisacti
 Lack of representation | [Federal system](/governance/federalism)
 Incompetent government officials | [Maharlikan Academy](/governance/maharlikan-academy)
 Abuses of authority | [Maharlikan Academy](/governance/maharlikan-academy)
-

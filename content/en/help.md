@@ -19,7 +19,6 @@ You can help by:
 - submitting articles related to Maharlika
 - donating cash or in kind
 
-{{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For people in the Philippines" >}}
+{{< img src="/graphics/gcash.png" alt="Gcash" cap="For people in the Philippines" >}}
 
-{{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For people in Vietnam" >}}
 

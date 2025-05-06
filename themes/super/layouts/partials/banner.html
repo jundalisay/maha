@@ -21,14 +21,14 @@
     </a>
   </div>
 
-  <div class="flex flex-wrap items-center text-center max-w-screen-md mx-auto">
+  <div class="flex flex-wrap items-center mx-auto max-w-screen-md">
     {{ range .cards }}
       <a href="{{ .url }}">
         <div class="relative">
           <img class="ani object-contain rounded-xl shadow-lg max-w-sm h-auto p-1" src="{{ .img | absURL }}" loading="lazy" alt="Image">
-          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent rounded-lg"></div>
+          <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent rounded-lg"></div>
           <div class="absolute bottom-4 left-4 text-white text-lg font-medium drop-shadow-md">
-            <h3>{{ .title }}</h3>
+            <h3 class="font-bold text-3xl">{{ .title }}</h3>
             <h5>{{ .sub }}</h5>
           </div>
          </div>

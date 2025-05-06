@@ -15,41 +15,36 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Call centers
 
-{{< q >}}
-<p>Those people became very familiar with us. They told us many things, their names and those of some of the islands that could be seen from that place. Their own island was Sulu, not very large. They were very pleasant and conversable.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+Those people became very familiar with us. They told us many things, their names and those of some of the islands that could be seen from that place. Their own island was Sulu, not very large. They were very pleasant and conversable.
 {{< /q >}}
 
 
 ### Hospitality 
 
-{{< q >}}
-<p>When we had eaten, the king had a reed mat and another of palm leaves, and a leaf pillow brought in for me to sleep on. The king and his two women went to sleep in a separate place, while I slept with one of his chiefs.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+When we had eaten, the king had a reed mat and another of palm leaves, and a leaf pillow brought in for me to sleep on. The king and his two women went to sleep in a separate place, while I slept with one of his chiefs.
 {{< /q >}}
 
 
 ### Tourism
 
-{{< q >}}
-<p>They offered heir pilots to show us the way. Magellan asked the kings for the pilots for he intended to depart the following morning, and [said] that he would treat them as if they were the kings themselves, and would leave one of us as hostage. Raha Colambu.. said that he intended to act as our pilot himself.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+They offered heir pilots to show us the way. Magellan asked the kings for the pilots for he intended to depart the following morning, and [said] that he would treat them as if they were the kings themselves, and would leave one of us as hostage. Raha Colambu.. said that he intended to act as our pilot himself.
 {{< /q >}}
 
 
 ### Music and Entertainment
 
-{{< q >}}
-<p>They played so harmoniously that one would believe they possessed good musical sense. Those girls were very beautiful and almost as white as our girls and as large.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+They played so harmoniously that one would believe they possessed good musical sense. Those girls were very beautiful and almost as white as our girls and as large.
 {{< /q >}}
 
 
 ### Food Service 
 
-{{< q >}}
-<p>Then two platters were brought in (one with fish and its sauce, and the other with rice), so that we might eat with the prince. My companion became intoxicated as a consequence of so much drinking and eating.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+Then two platters were brought in (one with fish and its sauce, and the other with rice), so that we might eat with the prince. My companion became intoxicated as a consequence of so much drinking and eating.
 {{< /q >}}
 
 <!-- Philippine industries  https://www.rappler.com/newsbreak/iq/171391-fast-facts-agriculture-livelihood-mindanao -->
@@ -59,9 +54,8 @@ From a survey of Maharlikan industry before Legazpi came, we can list the indust
 
 ### Crops and Livestock
 
-{{< q >}}
-<p>Palawan has rice, ginger, swine, goats, fowls, bananas, cocoanuts, camotes [batate], sugarcane, and roots resembling turnips in taste. We called that land the land of promise, because we suffered great hunger before we found it.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+Palawan has rice, ginger, swine, goats, fowls, bananas, cocoanuts, camotes [batate], sugarcane, and roots resembling turnips in taste. We called that land the land of promise, because we suffered great hunger before we found it.
 {{< /q >}}
 
 
@@ -80,17 +74,15 @@ The Duterte government seems to have pushed for agriculture the most. It did not
 
 ### Mining
 
-{{< q >}}
-<p>They showed me certain large valleys, making me a sign that the gold there was as abundant as the hairs of their heads, but they have no iron with which to dig it, and they do not dare to go to the trouble [to get it].</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+They showed me certain large valleys, making me a sign that the gold there was as abundant as the hairs of their heads, but they have no iron with which to dig it, and they do not dare to go to the trouble [to get it].
 {{< /q >}}
 
 
 ### Sports (Boxing, Archery )
 
-{{< q >}}
-<p>At a cape of [Mindanao] and near a river, are found shaggy men who are exceedingly great fighters and archers. They use swords one palmo in length, and eat only raw human hearts with the juice of oranges or lemons. Those shaggy people are called Benaian.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+At a cape of [Mindanao] and near a river, are found shaggy men who are exceedingly great fighters and archers. They use swords one palmo in length, and eat only raw human hearts with the juice of oranges or lemons. Those shaggy people are called Benaian.
 {{< /q >}}
 
 
@@ -98,18 +90,15 @@ The Duterte government seems to have pushed for agriculture the most. It did not
 
 ### Household Goods
 
-{{< q >}}
-<p>I bowed to the queen, and sat down beside her. She was making a sleeping mat of palm leaves.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+I bowed to the queen, and sat down beside her. She was making a sleeping mat of palm leaves.
 {{< /q >}}
 
 
 ### Shipbuilding
 
-
-{{< q >}}
-<p>Junks are made with the bottom part being built about two palmos above the water and is of planks fastened with wooden pegs, which are very well made. Above that they are entirely made of very large bamboos.</p>
-<cite>Pigafetta</cite>
+{{< q a="Antonio Pigafetta" >}}
+Junks are made with the bottom part being built about two palmos above the water and is of planks fastened with wooden pegs, which are very well made. Above that they are entirely made of very large bamboos.
 {{< /q >}}
 
 
@@ -117,7 +106,6 @@ The Duterte government seems to have pushed for agriculture the most. It did not
 
 Manufacturing has failed many times in the past because the country is an archipelago and the country is too free. So the future cannot be in manufacturing.
  -->
-
 
 Here we explained the industries natural to Maharlika by finding consistent patterns that are present in both Maharlika and the Philippines. The match between actual and desired industry becomes core competency which leads to productivity and consequently, wealth.  Poverty and misery arises when there is a mismatch between what you want to do and what you actually do. 
 

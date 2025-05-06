@@ -31,8 +31,7 @@ Moreover, Rodrigo Duterte, the current President, and Manila Mayor Isko Moreno, 
 
 This confounds news commentators and political scientists who have no knowledge of metaphysics. Because of this ignorance, they blame the people for being forgetful and even stupid as to elect the family of thieves and abusers*. 
 
-
-> *Imee Marcos was even accused of killing a student activist in 1977. 
+{{< n n="*Imee Marcos was even accused of killing a student activist in 1977." >}}
 
 
 To explain why the Marcoses are making a comeback, we must consult the all-wise Socrates.
@@ -54,17 +53,15 @@ Neo-liberal or Merchant | Vaesya caste | Socratic oligarchs | Third Estate | Sha
 
 The leadership of society shifts from one class into another, creating a known pattern or cycle*, similar to the seasons of spring, summer, fall, and winter. Spring always changes into summer and never goes back into winter. 
 
-
-> *Our [Four Laws of Value](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/) then explain that these classes and cycles are based on the four laws of thermodynamics where desire is the 'energy' of society. Both physical heat and emotional heat come from the aethereal layer. These ideas then form our proposed paradigm called Supersociology
+{{< n n="*Our [Four Laws of Value](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/) then explain that these classes and cycles are based on the four laws of thermodynamics where desire is the 'energy' of society. Both physical heat and emotional heat come from the aethereal layer. These ideas then form our proposed paradigm called Supersociology" >}}
 
 
 ### Conservative vs Liberal
 
 These four natural classes can be reduced to two as Conservative vs Liberal, as explained by moral philosopher Adam Smith:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations, Book 5" >}}
 In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by the rich. 
-<cite>The Simple Wealth of Nations, Book 5</cite>
 {{< /q >}}
 
 Every society has their own version of Conservatism vs Liberalism. This is easiest seen in democracies that have no single ruling class:
@@ -82,13 +79,12 @@ Every society has their own version of Conservatism vs Liberalism. This is easie
 
 By plotting the shifts of leadership all the way from 1572 (when leadership switched to the Spanish), we arrive at our forecast that the Philippines entered into the neo-conservative or tyranny cycle in 2014 after supertyphoon Haiyan which shocked and awed the soul of Philippine society*. 
 
-> According to Adam Smith, natural disasters are most effective in impacting the human mind<!--  and cause it to revert into metaphysics -->. One of the effects is the mental creation of gods for the sun, lightning, earthquakes, etc as polytheism, for the mind to console itself
+{{< n n="According to Adam Smith, natural disasters are most effective in impacting the human mind. One of the effects is the mental creation of gods for the sun, lightning, earthquakes, etc as polytheism, for the mind to console itself" >}}
 
 During that typhoon, the country was led by liberal Noynoy Aquino who was impotent in disaster response, just as the previous government was impotent in dealing with typhoon Ondoy and the Oakwood mutiny. This exposes the main problem with liberalism which is **weak governance**:
 
-{{< q a="Socrates" >}}
-<p>In this [Democratic] State, you do not need to govern if you don't want to. No law forbids you to hold office. You do not need to go war if others do not want to go to war. Isn't this supremely delightful?</p>
-<cite>The Simple Republic by Plato, Book 8</cite>
+{{< q a="Socrates" c="The Simple Republic by Plato, Book 8" >}}
+In this [Democratic] State, you do not need to govern if you don't want to. No law forbids you to hold office. You do not need to go war if others do not want to go to war. Isn't this supremely delightful?
 {{< /q >}}
 
 
@@ -107,12 +103,13 @@ This is because liberalism enshrines private pleasure, of which external governa
 This is why it's correct for Cory, Noynoy, and Robredo to claim not being corrupt -- because they are not governing! Instead, their preferred method is to outsource the governance to institutions*. For example, the failure of Noynoy to save the SAF44 was due to his reliance on the institution called the "peace process". Whenever conflict erupts in Mindanao, Liberals blame it on the failure of the "peace process" instead of themselves.  
 
 
+{{< n n="*Examples of this in the West are NATO and the WTO, which conservative Donald Trump is against, as proven by his non-funding of NATO and trade war" >}}
 
-> *Examples of this in the West are NATO and the WTO, which conservative Donald Trump is against, as proven by his non-funding of NATO and trade war
 
 In contrast, conservatism requires the government to be bigger to oversee the society, acting like a big brother or even a tiger mom*. 
 
-> *The tiger nature of Asian governments like Singapore and Taiwan lead to Tiger economies, as opposed to the lazy landlord rent-seeking governance in Banana Republics
+{{< n n="*The tiger nature of Asian governments like Singapore and Taiwan lead to Tiger economies, as opposed to the lazy landlord rent-seeking governance in Banana Republics" >}}
+
 
 
 This greater size naturally leads to more instances of corruption*. Historically, this manifested as warrior kings who led the battlefield while being judge, jury, and executioner rolled into one. 
@@ -121,7 +118,9 @@ This greater size naturally leads to more instances of corruption*. Historically
 - The institutional corruption then leads to the clamor for a single leader or czar
 - The czar later becomes corrupt, which leads to the clamor for institutions, in an unending cycle. 
 
-> *A possible solution is to automate the government as much as possible.
+
+{{< n n="*A possible solution is to automate the government as much as possible." >}}
+
 
 An easy proof is Afghanistan which quickly dropped its institutions and went back to simple Shariah after the Americans left, with the Taliban being judge, jury, and executioner. 
 
@@ -132,8 +131,7 @@ An easy proof is Afghanistan which quickly dropped its institutions and went bac
 
 Liberalism is weak at governance but strong in business, just as Conservatism is strong at governance but weak in business*.
 
-
-> *An example is Conservative Duterte constantly borrowing and spending for Covid without knowing how to pay for it. Another example are the Marcos cronies who were inferior to the South Korean chaebols and Japanese zaibatsus
+{{< n n="*An example is Conservative Duterte constantly borrowing and spending for Covid without knowing how to pay for it. Another example are the Marcos cronies who were inferior to the South Korean chaebols and Japanese zaibatsus" >}}
 
 
 This is why Socrates denounced democratic elections and instead advocated a single ruling class, called Guardians , that has both qualities. This is currently best seen in:
@@ -215,7 +213,7 @@ Laurel-Langley took effect in 1956 and freed the country economically by un-tyin
 - The Conservative Pro-Asians: Filipinos and Chinese*
 - The Liberal Pro-Western: Lopez and Americanized Filipinos such as Macapagal
 
-> *Spanish policy oppressed the Chinese in the Philippines, preventing them from dominating like in Malaysia. This changed when the Americans came, allowing the new breed of Sy, Gokongwei, Caktiong, etc.
+{{< n n="*Spanish policy oppressed the Chinese in the Philippines, preventing them from dominating like in Malaysia. This changed when the Americans came, allowing the new breed of Sy, Gokongwei, Caktiong, etc." >}}
 
 
 
@@ -223,18 +221,18 @@ Laurel-Langley took effect in 1956 and freed the country economically by un-tyin
 
 The Lopez family <!-- of Jaro Iloilo --> [began as a native Filipino textile exporter in the Spanish times](https://manilastandard.net/mobile/article/328796). They switched to sugar during the American period, as sugar which was in demand in the US. Finally, the family through Eugenio Lopez switched to telecoms and energy after Laurel-Langley*, buying ABS from American James Lindenberg in February 1957 and Meralco in 1962, making Eugenio the wealthiest man in the country. 
 
-
-> *Because the law extends sugar quota to 1974 (an industry that Lopez excels in), as well as the perfect timing of the Lopez acquisition of ABS and Meralco, we can easily speculate that the law itself was lobbied by the Lopezes for their own gain. Marcos then hacked the laws into the 1973 Constitution for his own gain just as the liberals hacked it back into the 1987 Constitution.
+{{< n n="*Because the law extends sugar quota to 1974 (an industry that Lopez excels in), as well as the perfect timing of the Lopez acquisition of ABS and Meralco, we can easily speculate that the law itself was lobbied by the Lopezes for their own gain. Marcos then hacked the laws into the 1973 Constitution for his own gain just as the liberals hacked it back into the 1987 Constitution." >}}
 
 Nature always balances out forces and energies, especially those that are too strong<!-- , as seen in entropy in the Law of Thermodynamics -->. This extends in economics and politics. If profits are too high in one industry, then people will flock to it to reduce the profits via competition. If power is too strong in one emperor, then the senate or rival emperors will band together to fight him and reduce his power*.
 
+{{< n n="*This is known as natural price theory and balance of power, respectively" >}}
 
-> *This is known as natural price theory and balance of power, respectively
 
 Marcos emerges from being a congressman to balance the Lopezes as a dictator. First, he allies with the Liberal Party and the Lopezes who propel him to the Presidency. Then [he jails them and takes their corporate assets](https://www.nytimes.com/1975/04/22/archives/rich-family-loses-power-in-bitter-feud-with-marcos.html)*.
 
 
-> *We can say that Ferdinand was a Machiavellian leader 
+{{< n n="*We can say that Ferdinand was a Machiavellian leader" >}}
+
 
 **The problem is that conservatives are awful at business**. This led to Marcos choosing cronies that were inferior to those of other countries: <!--in business:  know how to move money around than to actually create innovation --> 
 <!-- - [Araneta](https://en.wikipedia.org/wiki/Araneta_family) (Spanish)
@@ -246,9 +244,8 @@ Marcos emerges from being a congressman to balance the Lopezes as a dictator. Fi
 - Jose Campos Yao
 - Roberto Ongpin
 
-{{< q a="smith" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations, Book 5" >}}
 <p>Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam. But the government of England was never famous for good economy. In peacetime, she has been slothful and negligently profuse. This is perhaps natural to monarchies.</p>
-<cite>The Simple Wealth of Nations, Book 5</cite>
 {{< /q >}}
 
 Like the British monarchs, Marcos was also extravagant in his spending. This, combined with the weakness of his cronies, led to economic decline after the preferential US sugar trade ended and imports started flooding in after 1975.

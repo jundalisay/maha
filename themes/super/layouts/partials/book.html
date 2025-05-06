@@ -1,14 +1,14 @@
 <section class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
   <div class="text-center md:text-left">
-    <h2 class="text-3xl font-bold text-gray-800 dark:text-white mb-4">
+    <h2 class="text-3xl font-bold text-gray-800 dark:text-gray-900 mb-4">
       {{ .intro }}
     </h2>
-    <p class="text-gray-600 dark:text-gray-300 text-lg mb-6">
-      {{ .sub }}
+    <p class="text-gray-600 dark:text-gray-800 text-gray-800 text-lg mb-6">
+      {{ .sub | safeHTML }}
     </p>
-    <p class="text-blue-600 dark:text-blue-400 font-semibold text-lg">
+<!--     <p class="text-blue-600 dark:text-blue-400 font-semibold text-lg">
       Explore Now!
-    </p>
+    </p> -->
   </div>
 
   <div class="md:w-1/2 flex justify-center">

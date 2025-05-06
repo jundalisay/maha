@@ -23,9 +23,8 @@ Maharlikanism is the plan that follows the democratic system as a federation. Th
 - A free trade system that allows both money and barter and implements [EF Schumacher's Multilateral Clearing](https://superphysics.org/research/schumacher/pool-clearing/part-1) that creates a common universal interest, as opposed to the national interest that dominates the current systems
 - A renaming of the Philippines, as **ordered** by the Katipunan:
 
-{{< q a="Bonifacio" >}}
+{{< q a="Andres Bonifacio" c="Principal Orders of the Katipunan, January 1892" >}}
 To achieve all that is set out in the foregoing Covenant, we are ordering the entire subject population of these Islands, <b>which in time will be given a proper name</b>, and we are appealing to them with the utmost fervor to implement and accomplish the following decisions.
-<cite>Principal Orders of the Katipunan, January 1892</cite>
 {{< /q >}}
 
 
@@ -33,9 +32,8 @@ Maharlikanism itself is an implementation of the solutions applicable to the Phi
 
 Unknown to many, the Katipunan founders had a thirst for enlightenment ideas which were blocked off by the Catholic Church. This desire ranked number 11 in their list of [22 demands on Spain](/governance/principal-orders-kkk):
 
-{{< q a="Bonifacio" >}}
-<p>Spain does not give us any freedom to produce or distribute any book or document in our language that would open our eyes to beneficial pursuits and enlighten our thinking on the Arts and Sciences and other things that are not holy. We remain in blindness. We are prevented from glimpsing reason and other virtues.</p>
-<cite>Principal Orders of the Katipunan, January 1892</cite>
+{{< q a="Andres Bonifacio" c="Principal Orders of the Katipunan, January 1892" >}}
+Spain does not give us any freedom to produce or distribute any book or document in our language that would open our eyes to beneficial pursuits and enlighten our thinking on the Arts and Sciences and other things that are not holy. We remain in blindness. We are prevented from glimpsing reason and other virtues.
 {{< /q >}}
 
 

@@ -17,17 +17,16 @@
 
    <div class="py-6 mx-auto p-6 grid lg:grid-cols-4 grid-cols-1 gap-1">
     {{ range .cards }}
-      <div class="col-span-1 flex flex-col border rounded-xl shadow-xl dark:text-white mx-4 zoom">
-
-<div style="transition: transform 0.3s ease-in-out;" class="bg-white dark:text-gray-900 rounded-lg shadow-lg w-full mx-auto hover:scale-110">
-        <a href="{{ .url }}"> 
-          <img class="rounded-xl h-auto max-w-full object-fill" src="{{ .img }}" alt="{{ .title }}" />
-          <div class="text-center p-4">
-            <h5 class="mb-2 text-xl font-bold leading-none text-black dark:text-black">{{ .title }}</h5>
-            <p class="mb-3 font-normal leading-none">{{ .sub }}</p>
-          </div>      
-        </a>
-      </div>
+      <div class="col-span-1 flex flex-col rounded-xl shadow-l dark:text-white mx-4">
+        <div style="transition: transform 0.3s ease-in-out;" class="bg-white dark:text-gray-900 rounded-lg shadow-lg w-full mx-auto hover:scale-110">
+          <a href="{{ .url }}"> 
+            <img class="rounded-xl h-auto max-w-full object-fill" src="{{ .img }}" alt="{{ .title }}" />
+            <div class="text-center p-4">
+              <h5 class="mb-2 text-xl font-bold leading-none text-black dark:text-black">{{ .title }}</h5>
+              <p class="mb-3 font-normal leading-none">{{ .sub }}</p>
+            </div>      
+          </a>
+        </div>
       </div>
     {{ end }}
   </div>

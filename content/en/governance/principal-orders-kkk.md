@@ -9,39 +9,38 @@ icon: /icons/sun.png
 linkTitle: Katipunan
 ---
 
-> This is a simplified version of the Principal Orders of the KKK (Dakilang Kautusan)
 
-<!-- ![](https://sorasystem.sirv.com/photos/mh/kkkflag.png) -->
+{{< n n="This is a simplified version of the Principal Orders of the KKK (Dakilang Kautusan)" >}}
 
 
 ## Why we should separate from Spain
 
 We have been impelled to separate from Spain by her abusive behavior, hard-heartedness, treachery and other degradations that no Mother should inflict upon any child, such as:
 
-> 1. The imposition of high taxes on us, on our bodies, our produce, or our property
+1. The imposition of high taxes on us, on our bodies, our produce, or our property
 
 - The Spanish squeeze out our meager profit from our work so that we are kept weak and prevented from bettering ourselves.
 - There are high tariffs on any imported goods.
 
-> 2. The refusal to permit our country from entering treaties of foreign trade with other powers like America. 
+2. The refusal to permit our country from entering treaties of foreign trade with other powers like America. 
 
 As a consequence, our initiative is stifled and we remain in poverty.
 
-> 3. If we are unable to pay taxes due to hardship or lack of money, our possessions are confiscated.
+3. If we are unable to pay taxes due to hardship or lack of money, our possessions are confiscated.
 
 This is especially true if investment our industry produces no profit and even deepens our debt.  There is no investigation into whether there was any profit, nor any exemption granted if there was a loss. 
 
-> 4. Spain allows our means of livelihood to be snatched away by any nation, especially the Chinese.
+4. Spain allows our means of livelihood to be snatched away by any nation, especially the Chinese.
 
 We cannot learn or glean any enlightenment from the Chinese regarding decent behaviour, but only trickery, thievery, and misery.
 
-> 7. Spain does not treat us like her children, except in relation to punishment for any misdemeanor. 
+7. Spain does not treat us like her children, except in relation to punishment for any misdemeanor. 
 
-> 8. Spain does not grant us any privileges like those she gives to her children, who are the only ones she loves.
+8. Spain does not grant us any privileges like those she gives to her children, who are the only ones she loves.
 
-> 9. Spain does not create positions with salaries that are high unless they are for the Spanish, while our monthly pay is meager.
+9. Spain does not create positions with salaries that are high unless they are for the Spanish, while our monthly pay is meager.
 
-> 10. Spain does not like us to participate in congresses or for us to have representatives in the Cortes.
+10. Spain does not like us to participate in congresses or for us to have representatives in the Cortes.
 
 Those representatives could:
 - defend and assert our rights in our name, 
@@ -49,38 +48,40 @@ Those representatives could:
 - relate how we are oppressed by them, and 
 - submit proposals for the welfare of our country
 
-> 11. Spain does not give us any freedom to produce or distribute any book or document in our language that would open our eyes to beneficial pursuits and enlighten our thinking on the Arts and Sciences and other things that are not holy.
+11. Spain does not give us any freedom to produce or distribute any book or document in our language that would open our eyes to beneficial pursuits and enlighten our thinking on the Arts and Sciences and other things that are not holy.
 
 We remain in blindness. We are prevented from glimpsing reason and other virtues. 
 
-> 12. Any complaint against the King or the enumeration of the mistakes, abuses of the Spanish in this country are deemed illicit.
+12. Any complaint against the King or the enumeration of the mistakes, abuses of the Spanish in this country are deemed illicit.
 
-> 13. Spain denounces as inimical to the Catholic Religion anyone among us who circulates writings that expose and protest against the errors committed by that organization.
+13. Spain denounces as inimical to the Catholic Religion anyone among us who circulates writings that expose and protest against the errors committed by that organization.
 
-> 14. Spain halts or delays whatever plans come from this land.
+14. Spain halts or delays whatever plans come from this land.
 
-> 15. Spain does not require the Spanish here to observe the laws given to order our affairs, so that any guilt is entirely ours.
+15. Spain does not require the Spanish here to observe the laws given to order our affairs, so that any guilt is entirely ours.
 
-> 16.  The publication of orders on the newly discovered territories, or unsubjugated people like those of Jolo.
+16.  The publication of orders on the newly discovered territories, or unsubjugated people like those of Jolo.
 
 One of these orders is the new Decree which gives still more power to the High Chief here. It says that whenever something disturbs the Spanish, these natives are immediately charged and prosecuted on some pretext:
 - those who have some accomplished learning
-- those who feels the suffering of all<!-- , or has come to understand that mistakes and abuses must be fought whenever they are seen, is .  --> 
+- those who feels the suffering of all
+
+<!-- , or has come to understand that mistakes and abuses must be fought whenever they are seen, is .  -->
 
 <!-- Nothing will be done to investigate the allegations against him to establish whether they are true or false, because the bare allegations alone will be sufficient for the accused to be dispatched forthwith into distant exile. -->
 
-> 17. Spain does not allow us to publish any newspaper, especially in our local language, that does not go through the Censor. 
+17. Spain does not allow us to publish any newspaper, especially in our local language, that does not go through the Censor. 
 
 <!-- He is a conspirator responsible for detecting whether what is said reveals the errors of the chief.   -->
 
 This is why the news about the abuses committed here does not reach others, especially in Spain. <!--  If someone has funds they could sail there and press charges, but they will not be given a hearing so as to avoid any confrontation, and still they will achieve nothing. -->
 
-> 17.  Gross injustice, in the Office of the Ruler, where the underlings and copy clerks are all Tagalogs and the  Officials and Chiefs are solely Spaniards, even though few of these chiefs know what to do.  
+17.  Gross injustice, in the Office of the Ruler, where the underlings and copy clerks are all Tagalogs and the  Officials and Chiefs are solely Spaniards, even though few of these chiefs know what to do.  
 
 The majority do not even turn up and are out just roaming around, so the clerks are the ones left to attend to their duties.  If necessary, they just add their endorsement or signature.  What a great way to earn a salary!
 
 
-> 18.  The pretensions of the enlightened men (ilustrados) who have education and wealth have coarse habits.  
+18.  The pretensions of the enlightened men (ilustrados) who have education and wealth have coarse habits.  
 
 If the Tagalogs join any meeting with the Spaniards, they are counted as unworthy.<!--  and sometimes even if they are as brilliant as the others they are not given a place of honor, especially if they go to visit Spanish homes.   -->
 
@@ -88,21 +89,21 @@ But if the Spaniards are the ones who visit Tagalog homes they expect to be rece
 
 <!-- They demand this from every Tagalog they speak to, but in return they show no respect at all.  Regardless of our status, regardless of whether our hair has turned white with age,  -->
 
-They address us familiarly as “Tu”, and even insult us by calling us “blacks” or “monkeys.”  <!-- Does this behavior show fraternity?  It does not.  It breeds anger, and incites enmity or conflict.  --> 
+They address us familiarly as “Tu”, and even insult us by calling us “blacks” or “monkeys.”  <!-- Does this behavior show fraternity?  It does not.  It breeds anger, and incites enmity or conflict.  -->
 
-> 19. Spain honors as glorious conduct the pitiless cruelties of the officers of the Guardia Civil
+19. Spain honors as glorious conduct the pitiless cruelties of the officers of the Guardia Civil
 
 <!-- , both inside and outside their barracks in this capital of Manila towards the people they arrest, whether they are guilty or not, mostly men who are peaceful citizens, in order to intimidate them if once in a while they do not comply with their wishes, whether bad or good. -->
 
-> 20.  If sometimes one of these prisoners dies, without any justice, it will always be pretended that the victim was forced to admit the denunciations or imputations against them.  
+20.  If sometimes one of these prisoners dies, without any justice, it will always be pretended that the victim was forced to admit the denunciations or imputations against them.  
 
 If they get a confession by such means, the case will be referred to the corresponding Judge or whatever authority and these Chiefs will accept that confession.
 
-> 21. Spain allows the friars to fornicate with women
+21. Spain allows the friars to fornicate with women
 
 In the provinces, it is rare for the majority not to have children or to not have violated the young women.
 
-> 22.  The parents and other relatives of these women who detest this conduct have to say immediately that it did not really happen,  because otherwise they will be deported far away.
+22.  The parents and other relatives of these women who detest this conduct have to say immediately that it did not really happen,  because otherwise they will be deported far away.
 
 ---
 

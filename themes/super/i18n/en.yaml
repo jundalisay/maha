@@ -10,7 +10,7 @@
 
 # Content
 - id: Superphysics_Note
-  translation: "Superphysics Note"
+  translation: "Maharlikanism Note"
 - id: postedOnDate
   translation: "Posted on {{ . }}"
 - id: lastModified

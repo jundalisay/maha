@@ -58,7 +58,6 @@ DefaultContentLanguageInSubdir = false
         weight = 15
 
     [languages.en.params]
-      # title = "M"
       heading = "An advocacy to change the name, culture, and socio-economics of"
       ph = "The Philippines"
       into = "into"
@@ -72,7 +71,7 @@ DefaultContentLanguageInSubdir = false
       intro = "A Total Change"
       youtube = [
         { url = "f_H98cQ1QAY", title = "From Poor"},
-        { url = "r0Tkma5fkrg", title = "To Prosperous"}
+        { url = "U8MD8ix-r9Y", title = "To Prosperous"}
       ]
       # prosperity https://youtu.be/U8MD8ix-r9Y
       # slum drone shot https://youtu.be/f_H98cQ1QAY
@@ -106,96 +105,20 @@ DefaultContentLanguageInSubdir = false
       banner = "/photos/barter.jpg"
       color = "bg-gradient-to-r from-blue-400 to-green-800 dark:bg-blue-800 hover:bg-green text-white dark:text-white hover:from-cyan-600 hover:to-blue-600 hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cyan-500 transition duration-300 ease-in-out transform hover:-translate-y-0.5 dark:from-cyan-600 dark:to-blue-600 dark:hover:from-cyan-700 dark:hover:to-blue-700"
       cards = [
-        { img = "/photos/medieval/lapu.jpg", title = "What is Maharlika?", url ="/history/meanings-maharlika" },
-        { img = "/graphics/bayanihan.jpg", title = "The Bayanihan Economy", url ="/economics/barter" },
+        { img = "/photos/medieval/lapu.jpg", title = "What is Maharlika?", url ="/history/meanings-maharlika", sub = "See how we bring back the nation's identity" },
+        { img = "/graphics/bayanihan.jpg", title = "The Bayanihan Economy", url ="/economics/barter", sub = "Shee how Maharlika traded without money" },
       ]
-
 
     [languages.en.params.tricon]
       title = "Specific Action Steps"
       # sub = "The analog universe streams in real-definition to create reality"
       youtube = "JLGMATjNW0c"
       cards = [
-        { img= "/photos/medieval/lapu.jpg", title = "Constitutional Virtues", url = "/history/meanings-maharlika", sub = "A New, Systemic Moral Foundation" },
-        { img= "/photos/idea.jpg", title = "Federalism with Bicameral Parliament", url = "/governance/federalism", sub = "Democracy with a Focus" },
-        { img= "/photos/objects/galleon.jpg", title = "Pigafetta's Accounts", url = "/history/pigafetta/simplified-pigafetta", sub = "What did the Spanish say about Maharlika?" },
-        { img= "/photos/objects/gold.jpg", title = "The Fourth Branch of Government", url = "/social/supersociology/solutions/constitutional-virtues/", sub = "The Resources Branch" }
+        { img= "/photos/medieval/lapu.jpg", title = "1: Constitutional Virtues", url = "/advocacy/maharlikanism", sub = "A New, Systemic Moral Foundation" },
+        { img= "/photos/idea.jpg", title = "2: Federalism with Bicameral Parliament", url = "/governance/federalism", sub = "Democracy with a Focus" },        
+        { img= "/photos/objects/gold.jpg", title = "3: The Fourth Branch of Government", url = "/governance/fourth-branch-government", sub = "The Resources Branch" },
+        { img= "/photos/socrates.jpg", title = "4: The Maharlikan Academy", url = "/governance/maharlikan-academy/", sub = "Preserving and Prommoting Maharlikan Culture" }
       ]
-      
-
-## mat law
-    [languages.en.params.tricon2]
-      # heading = "The Soul of the Physical Universe"
-      title = "Politics and Law"
-      sub = "Philippines versus Maharlika"
-      # youtube = "3l9J6tH4iD0"
-      icon = "/icons/quill.png"
-      # link= "/material/principles"
-    [languages.en.params.tricon2.items.a]
-      url = "/governance/federalism"
-      img= "/photos/medieval/maharlika.jpg"
-      title = "Why Federalism?"
-      sub = "Maharlika was a confederation of semi-independent states"
-    [languages.en.params.tricon2.items.b]
-      url = "/history/colonialism/"
-      img= "/photos/medieval/magellan.jpg"
-      title = "How Did Colonizers Get a Foothold?"
-      sub = "How Divide and Conquer Works"
-    [languages.en.params.tricon2.items.c]
-      url= "/metaphysics/democracy-is-bad"
-      img = "/photos/psych/freedom.jpg"
-      title = "Why is Democracy Bad?"
-      sub = "Maharlika was already Democratic"
-    [languages.en.params.tricon2.items.d]
-      url = "/metaphysics/marcos-aquino-rivalry"
-      img = "/photos/coryv.jpg"
-      title = "The Marcos-Aquino Rivalry"
-      sub = "Conservative vs Liberal"
-
-      ## bio econ
-    [languages.en.params.tricon3]
-      title = "Economics"
-      sub = "Bayanihan as an Economic System"
-      # youtube= "Y6YKmtqJak4"
-      icon = "/icons/help.png"
-    [languages.en.params.tricon3.items.b]
-      url = "/economics/maharlika-2050/"
-      img= "/graphics/econ/eq.jpg"
-      title = "Maharlika 2050"
-      sub = "Transition to an Advanced Country"
-    [languages.en.params.tricon3.items.c]
-      url = "/governance/fourth-branch-government/"
-      img= "/photos/balancerock.jpg"
-      title = "The Fourth Branch of Government"
-      sub = "The Resources Department"
-    [languages.en.params.tricon3.items.d]
-      url = "/metaphysics/poor-philippines/"
-      img= "/photos/social/poverty.jpg"
-      title = "Why the Philippines is Poor"
-      sub = "How Low Morals Causes Chronic Poverty"
-
-
-    [languages.en.params.tricon4]
-      # heading = "The Soul of Society"
-      title = "Culture and the Arts"
-      sub = "Maharlikan Puso or Heart"
-      # youtube = "AfByl9Mywi4"
-      icon = "/icons/pen.png"
-    [languages.en.params.tricon4.items.a]
-      url = "/infrastructure/climate-change"
-      img = "/photos/flood.jpg"
-      title = "How Maharlika Dealt with Climate Change"
-      sub = "By Prediction and Mitigation"
-    [languages.en.params.tricon4.items.b]
-      url = "/culture/war-adobo"
-      img = "/photos/food/adobopork.jpg"
-      title = "War on Adobo"
-      sub = "Maharlikan Food versus Philippine Food"
-    [languages.en.params.tricon4.items.c]
-      url = "/culture/war-adobo/"
-      img= "/photos/basket.jpg"
-      title = "Bayong Ball"
-      sub = "Basketball for short people"
 
 
 
@@ -203,211 +126,128 @@ DefaultContentLanguageInSubdir = false
     contentDir = "content/tl"
     weight = 2
     languageName = "Tagalog"
-    [[languages.en.menu.main]]
-        name = "Advocacy"
-        url = "advocacy"
-        weight = 1
-    [[languages.en.menu.main]]
-        name = "Advocacy"
-        url = "advocacy"
-        weight = 1
-    [[languages.en.menu.main]]
-        identifier = "sp"
-        name = "Writers"
-        url = "writers"
-        weight = 2
-    [[languages.en.menu.main]]
-        name = "Politicians"
-        url = "politicians"
-        weight = 3
-    [[languages.en.menu.main]]
-        name = "Metaphysics"
-        url = "metaphysics"
-        weight = 4
-    [[languages.en.menu.main]]
-        name = "Governance"
-        url = "governance"
-        weight = 5
-    [[languages.en.menu.main]]
-        name = "Economics"
-        url = "economics"
-        weight = 6
-    [[languages.en.menu.main]]
-        name = "Culture"
-        url = "culture"
-        weight = 9
-    [[languages.en.menu.main]]
-        name = "FAQs"
-        url = "faqs"
-        weight = 11
-    [[languages.en.menu.main]]
-        name = "Tags"
+    [[languages.tl.menu.main]]
+        name = "Kasaysayan"
+        url = "history"
+        weight = 13    
+    # [[languages.tl.menu.main]]
+    #     name = "Advocacy"
+    #     url = "advocacy"
+    #     weight = 1
+    # [[languages.tl.menu.main]]
+    #     name = "Manunulat"
+    #     url = "writers"
+    #     weight = 2
+    # [[languages.tl.menu.main]]
+    #     name = "Politiko"
+    #     url = "politicians"
+    #     weight = 3
+    # [[languages.tl.menu.main]]
+    #     name = "Metaphysics"
+    #     url = "metaphysics"
+    #     weight = 4
+    # [[languages.tl.menu.main]]
+    #     name = "Gobyerno"
+    #     url = "governance"
+    #     weight = 5
+    # [[languages.tl.menu.main]]
+    #     name = "Ekonomiya"
+    #     url = "economics"
+    #     weight = 6
+    # [[languages.tl.menu.main]]
+    #     name = "Kultura"
+    #     url = "culture"
+    #     weight = 9
+    [[languages.tl.menu.main]]
+        name = "Tag"
         url = "tags"
         weight = 14
-    [[languages.en.menu.main]]
-        name = "Help!"
+    [[languages.tl.menu.main]]
+        name = "Pagtulong"
         # name = "/icons/heart.png"
         url = "help/"
         weight = 15
 
 
     [languages.tl.params]
-      heading = "Isang adbokasiya upang baguhin ang pangalan, kultura, at sosyo-ekonomiya ng Pilipinas tungo sa Maharlika"
-      intro = "Maharlika at Maharlikanism"
+      ph = "Pilipinas"
+      into = "nang"
+      mh = "Maharlika"
+      youtube = "DUQVO9ZCCg8"
+      heading = "Isang adbokasiya upang baguhin ang pangalan, kultura, at sosyo-ekonomiya"
       sub = "Ang aming adbokasya"
-      banner = "/photos/flag.jpg"
-      youtube = "9a99XWmTG0k"
 
-    [languages.tl.params.tricon1]
-      title = "Adbokasiya at Kasaysayan"
-      sub = "Mga pangunahing adbokasiya namin"
-      icon = "/icons/shield.png"
-    [languages.tl.params.tricon1.items.a]
-      url = "/tl/history/meanings-maharlika"
-      img= "/photos/medieval/lapu.jpg"
-      title = "Ano ang Maharlika?"
-      sub = "Isang maliit na bansa kung saan nagmumula ang mga dakilang bagay."
-    [languages.tl.params.tricon1.items.b]
-      url = "/advocacy/maharlikanism"
-      img = "/photos/idea.jpg"
-      title = "Ano ang Maharlikanism?"
-      sub = "Isang plano upang ibalik ang Pilipinas sa kanyang tunay na kalagayan."
-    [languages.tl.params.tricon1.items.c]
-      url = "/history/pigafetta/simplified-pigafetta"
-      img = "/photos/objects/galleon.jpg"
-      title = "Ang mga Kuwento ni Pigafetta"
-      sub = "Ano ang sinabi ng mga Kastila tungkol sa Maharlika?"
-    [languages.tl.params.tricon1.items.d]
-      url = "https://superphysics.org/social/supersociology/solutions/constitutional-virtues/"
-      img = "/photos/psych/heart.jpg"
-      title = "Konstitusyonal na Birtud"
-      sub = "Isang Bagong, Sistemikong Moral na Batayan"
+    [languages.tl.params.change]
+      intro = "Tunay na Pagbabao"
+      youtube = [
+        { url = "f_H98cQ1QAY", title = "Mula Kahirapan"},
+        { url = "U8MD8ix-r9Y", title = "Patungo sa Kasaganahan"}
+      ]
+      # prosperity https://youtu.be/U8MD8ix-r9Y
+      # slum drone shot https://youtu.be/f_H98cQ1QAY
 
-    [languages.tl.params.tricon2]
-      # heading = "The Soul of the Physical Universe"
-      title = "Politika at Batas"
-      sub = "Pilipinas kontra Maharlika"
-      # youtube = "3l9J6tH4iD0"
-      icon = "/icons/quill.png"
-      # link= "/material/principles"
-    [languages.tl.params.tricon2.items.a]
-      url = "/governance/federalism"
-      img= "/photos/medieval/maharlika.jpg"
-      title = "Bakit Pederalismo?"
-      sub = "Ang Maharlika ay isang konfederasyon ng mga semi-independiyenteng estado" 
-    [languages.tl.params.tricon2.items.b]
-      url = "/history/colonialism/"
-      img= "/photos/medieval/magellan.jpg"
-      title = "Paano Nakakuha ng Tunguhing Pook ang mga Kolonisador?"
-      sub = "Paano Gumagana ang Paghihiwa-hiwalay at Pananakop"
-    [languages.tl.params.tricon2.items.c]
-      url= "/metaphysics/democracy-is-bad"
-      img = "/photos/psych/freedom.jpg"
-      title = "Bakit Masama ang Demokrasya?"
-      sub = "Ang Maharlika ay mayroon nang Demokrasya"
-    [languages.tl.params.tricon2.items.d]
-      url = "/metaphysics/marcos-aquino-rivalry"
-      img = "/photos/coryv.jpg"
-      title = "Ang Rivalidad ni Marcos at Aquino"
-      sub = "Konserbatibo vs Liberal"
+    [languages.tl.params.book]
+      intro = "Basahin ang aming libro"
+      img = "/books/towards.jpg"
+      sub = "Ang Maharlikanism ay ipinapaliwanag sa aklat <i>Towards Maharlika</i>, na nasa Play Store"
+      url = "https://play.google.com/store/books/details?id=T-H4DwAAQBAJ&pli=1"
 
-    [languages.tl.params.tricon3]
-      # heading = "The Soul of Living Entities"
-      title = "Ekonomiyang Maharlikano"
-      sub = "Bayanihan bilang isang Sistemang Pang-ekonomiya"
-      icon = "/icons/economic.png"
-# Ano ang Konstitusyonal na mga Birtud? Ang mga pundasyon ng sibilisasyon.
-# Pederalismo na may Bicameral Parliament. Demokrasya na may Pokus.
-# Bayanihan Economy. Ekonomikong Pag-unlad nang walang Krisis.
 
-    [languages.tl.params.tricon3.items.b]
-      url = "/economics/maharlika-2050/"
-      img= "/graphics/econ/eq.jpg"
-      title = "Maharlika 2050"
-      sub = "Transisyon patungo sa isang Maunlad na Bansa"
-    [languages.tl.params.tricon3.items.c]
-      url = "/governance/fourth-branch-government/"
-      img= "/photos/balancerock.jpg"
-      title = "Ang Ika-apat na Sangay ng Pamahalaan"
-      sub = "Ang Kagawaran ng mga Yaman"
-    [languages.tl.params.tricon3.items.d]
-      url = "/metaphysics/poor-philippines/"
-      img= "/photos/social/poverty.jpg"
-      title = "Bakit Mahirap ang Pilipinas"
-      sub = "Paano ang Mababang Moral ay Sanhi ng Kronicong Kahirapan"
-
-    [languages.tl.params.tricon4]
-      # heading = "The Soul of Society"
-      title = "Kultura at Sining"
-      sub = "Maharlikang Puso o Puso"
-      # youtube = "AfByl9Mywi4"
-      icon = "/icons/pen.png"
-    [languages.tl.params.tricon4.items.b]
-      url = "/infrastructure/climate-change"
-      img = "/photos/flood.jpg"
-      title = "Paano Nakipaglaban ang Maharlika sa Pagbabago ng Klima"
-      sub = "Sa pamamagitan ng Pagsusuri at Pag-aantabay"
-    [languages.tl.params.tricon4.items.c]
-      url = "/culture/war-adobo"
-      img = "/photos/food/adobopork.jpg"
-      title = "Laban Kontra Adobo"
-      sub = "Maharlikang Pagkain kontra Pagkain ng Pilipinas"
-    [languages.tl.params.tricon4.items.d]
-      url = "/culture/war-adobo/"
-      img= "/photos/basket.jpg"
-      title = "Bayong Ball"
-      sub = "Basketball para sa mga taong maikli"
 
   [languages.cb]
     contentDir = "content/cb/" #English
     weight = 1
     languageName = "Cebuano"
-    [[languages.en.menu.main]]
-        name = "Advocacy"
-        url = "advocacy"
-        weight = 1
-    [[languages.en.menu.main]]
-        name = "Advocacy"
-        url = "advocacy"
-        weight = 1
-    [[languages.en.menu.main]]
-        identifier = "sp"
-        name = "Writers"
-        url = "writers"
-        weight = 2
-    [[languages.en.menu.main]]
-        name = "Politicians"
-        url = "politicians"
-        weight = 3
-    [[languages.en.menu.main]]
-        name = "Metaphysics"
-        url = "metaphysics"
-        weight = 4
-    [[languages.en.menu.main]]
-        name = "Governance"
-        url = "governance"
-        weight = 5
-    [[languages.en.menu.main]]
-        name = "Economics"
-        url = "economics"
-        weight = 6
-    [[languages.en.menu.main]]
-        name = "Culture"
-        url = "culture"
-        weight = 9
-    [[languages.en.menu.main]]
-        name = "FAQs"
-        url = "faqs"
-        weight = 11
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 14
+    [[languages.cb.menu.main]]
+        name = "Kasaysayan"
+        url = "history"
+        weight = 13
+    # [[languages.cb.menu.main]]
+    #     name = "Advocacy"
+    #     url = "advocacy"
+    #     weight = 1
+    # [[languages.cb.menu.main]]
+    #     identifier = "sp"
+    #     name = "Writers"
+    #     url = "writers"
+    #     weight = 2
+    # [[languages.en.menu.main]]
+    #     name = "Politicians"
+    #     url = "politicians"
+    #     weight = 3
+    # [[languages.en.menu.main]]
+    #     name = "Metaphysics"
+    #     url = "metaphysics"
+    #     weight = 4
+    # [[languages.en.menu.main]]
+    #     name = "Governance"
+    #     url = "governance"
+    #     weight = 5
+    # [[languages.en.menu.main]]
+    #     name = "Economics"
+    #     url = "economics"
+    #     weight = 6
+    # [[languages.en.menu.main]]
+    #     name = "Culture"
+    #     url = "culture"
+    #     weight = 9
+    # [[languages.en.menu.main]]
+    #     name = "Tags"
+    #     url = "tags"
+    #     weight = 14
     [[languages.en.menu.main]]
         name = "Help!"
         # name = "/icons/heart.png"
         url = "help/"
         weight = 15
+
+    [languages.cb.params]
+      ph = "Pilipinas"
+      into = "nang"
+      mh = "Maharlika"
+      youtube = "DUQVO9ZCCg8"
+      heading = "Isang adbokasiya upang baguhin ang pangalan, kultura, at sosyo-ekonomiya"
+      sub = "Ang aming adbokasya"
 
 
 [outputs]
