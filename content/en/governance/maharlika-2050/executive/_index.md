@@ -1,6 +1,6 @@
 ---
 title: "The Executive Branch"
-c: "royalblue"
+c: "mediumblue"
 weight: 4
 description: "A set of policies inspired by the Mandate for Leadership"
 ---
