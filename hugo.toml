@@ -44,10 +44,6 @@ DefaultContentLanguageInSubdir = false
         url = "culture"
         weight = 9
     [[languages.en.menu.main]]
-        name = "FAQs"
-        url = "faqs"
-        weight = 11
-    [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
         weight = 14
@@ -299,8 +295,6 @@ DefaultContentLanguageInSubdir = false
     [minify.tdewolff.xml]
       keepWhitespace = false
 
-# paginate = 12
-
 [pagination]
 pagerSize = 24
 
@@ -316,7 +310,7 @@ pagerSize = 24
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2025 | <a class='text-white dark:text-white' href='/company/'>Pantrypoints Technologies</a> | Based on <a class='text-white dark:text-white' href='https://www.superphysics.org'>Superphysics</a>"
+  copyright = "Copyright © 2025 | <a class='text-white dark:text-white' href='https://www.pantrypoints.com'>Pantrypoints Technologies</a> | Based on <a class='text-white dark:text-white' href='https://www.superphysics.org'>Superphysics</a>"
   favicon = "/icons/pantry50.png"
 
   ascentColor = "bg-blue-100"

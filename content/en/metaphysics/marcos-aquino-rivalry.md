@@ -92,6 +92,7 @@ The weakness of Noynoy Aquino then led to the fall of the Liberal Party and the 
 
 But why is liberalism weak in governance? 
 
+This is answered in our next post.
 
 ## Liberal Non-governance versus Conservative Corruption 
 

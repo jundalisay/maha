@@ -99,11 +99,11 @@
     </div>
 
     <div class="mx-auto text-center">
-      <h1 class="text-8xl font-bold tracking-tight dark:text-blue-800 text-blue-800 typewriter">
+      <h1 class="lg:text-8xl text-4xl font-bold tracking-tight dark:text-blue-800 text-blue-800 typewriter">
         {{ .Title }}
       </h1>
 
-        <span class="font-bold text-gray-800 text-2xl">
+        <span class="flex flex-wrap font-bold text-gray-800 text-lg">
             {{ with .Site.Params.heading }}
                 <span class="">{{ . }}</span> 
             {{ end }}
