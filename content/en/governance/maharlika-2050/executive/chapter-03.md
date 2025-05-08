@@ -3,7 +3,7 @@ heading: Chapter 3
 weight: 8
 title: "The Office Of Communications"
 description: "Maharlika 2050"
-c: "navy"
+c: "mediumblue"
 draft: true
 ---
 
@@ -12,7 +12,11 @@ draft: true
 
 This is the liaison between the Executive and the Legislative.
 
-The White House must work with congressional leaders to ensure presidential nominees, for roles such as Cabinet secretaries and ambassadors, are confirmed by the Senate. The White House also relies on Congress to enact reforms promised by the President on the campaign trail, whether those promises relate to health care, education, or national defense. Because Congress holds the power of the purse, White House staffers must ensure that there is enough support on the Hill to secure the necessary funding through the appropriations process to fulfill the President’s agenda. The OLA reports directly to the Chief of Staff and in some Administrations has done so under the guidance of a Deputy Chief of Staff (usually the Deputy Chief
+The President must work with congressional leaders to ensure presidential nominees, for roles such as Cabinet secretaries and ambassadors, are confirmed by the Senate.
+
+The President also relies on Congress to enact reforms promised by the President on the campaign trail, whether those promises relate to health care, education, or national defense.
+
+Because Congress holds the power of the purse, White House staffers must ensure that there is enough support on the Hill to secure the necessary funding through the appropriations process to fulfill the President’s agenda. The OLA reports directly to the Chief of Staff and in some Administrations has done so under the guidance of a Deputy Chief of Staff (usually the Deputy Chief
 
 
 ### OFFICE OF PRESIDENTIAL PERSONNEL (PPO)
