@@ -55,7 +55,7 @@ And so governments get deeper into debt, while corporations get richer by shifti
 The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge. -->
 
 
-{{< q a="Adan Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
 {{< /q >}}
 
@@ -150,7 +150,7 @@ An open religious policy can:
 - increase productivity by replacing formal prayer (with its overhead) with informal ideation 
 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
 The religious teachers' interested zeal can be dangerous when only one sect is tolerated or when the society is divided into two or three great sects.
 {{< /q >}}
 
@@ -166,17 +166,15 @@ Removing dual citizenship thus gives the government power over its own citizens.
 
 Those ex-dual citizens will then be treated as foreign permanent residents who will have to sell their assets and pay for visa renewal and other restrictions.  **These will lower asset prices while giving more revenue to government to pay for the huge 12 trillion peso debt.** This policy thus **makes the rich pay for the debt**, in line with Adam Smith's taxation maxim quoted earlier. 
 
-{{< q >}}
+{{< q a="1987 Constitution" >}}
 Dual allegiance of citizens is inimical to the national interest and shall be dealt with by law.
-<cite>1987 Constitution</cite>
 {{< /q >}}
 
 
 This policy also leads to leasehold and freehold system which is different from the private property system inherited from the US. This is important in calculating a 'just compensation" which will not be disadvantageous to the government. 
 
-{{< q >}}
+{{< q a="1899 Malolos Constitution" >}}
 No Filipino shall establish laws on primogeniture, nor institutions restrictive of property rights.. without the consent of the Government
-<cite>1899 Malolos Constitution</cite>
 {{< /q >}}
 
 
@@ -184,18 +182,16 @@ No Filipino shall establish laws on primogeniture, nor institutions restrictive 
 
 The Philippines currently has a unitary form of government because it followed administrative system established by the Spanish. The problem is that Maharlika was originally a confederation and without a single ruler. This is because **it is made up of many small islands and not a single land mass**.  
 
-{{< q a="Chau Ju Kua" >}}
+{{< q a="Chau Ju Kua" c="Chun Fan Chi Simplified" >}}
 The Visayan settlements are along the coast are not connected by common jurisdiction. They are all independent.
-<cite>Chun Fan Chi Simplified</cite>
 {{< /q >}}
 
 <!--  [12th century Pre-colonial Philippines] -->
 
 A unitary government on such a land will lead to feudalism wherein the local governments act like vassals of imperial Manila (the capital of Maharlika). An example is how warlords were [allowed by the president to keep private armies](https://www.bbc.com/news/world-asia-pacific-11139653). 
 
-{{< q >}}
+{{< q a="BBC News" >}}
 In 2006, Mrs Arroyo issued an executive order legalising the informal private "armies" being kept by families like the Ampatuans.. legitimising their use as a means of local control.
-<cite>BBC News</cite>
 {{< /q >}}
 
 
@@ -221,9 +217,8 @@ To solve this, we propose a [modified parliamentary system](https://www.superphy
 
 In this way, the representatives and senators can choose from themselves who would have the actual skills to lead the country.
 
-{{< q a="David-Hume" >}}
+{{< q a="David-Hume" c="Idea of a Perfect Commonwealth" >}}
 The  representatives will have all the legislative power. The votes on legislation will be decided by the majority. If these are equal, the senate will vote on it.
-<cite>Idea of a Perfect Commonwealth</cite>
 {{< /q >}}
 
 
@@ -236,8 +231,7 @@ The federalized system will be ideal for our proposed bayanihan barter economy w
 
 A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](https://www.superphysics.org/social/economics/principles/part-2/chapter-01b/). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
 
-
-> *Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation. 
+{{< n n="*Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation. " >}}
 
 
 
@@ -260,7 +254,7 @@ In Schumacher's system, the exports of Country A to Country B is paid for by the
 
 
 
-{{< q a="EF-Schumacher" >}}
+{{< q a="EF Schumacher" >}}
 Compared to free international convertibility of currencies, Pool Clearing offers one outstanding advantage: its inner mechanism overcomes temporary disequilibrium situations in international exchange by expansion instead of restriction.
 {{< /q >}}
 
@@ -269,8 +263,6 @@ Compared to free international convertibility of currencies, Pool Clearing offer
 The Philippines can implement multilateral clearing **to export its way to pay the Covid-19 debts** through the export of bananas, coconuts, and services. This will allow the government to free up its budget so that it can have money to incubate industry and continue the industrialization policies of Magsaysay and Garcia.
 
 ![Bayanihan Economy](/graphics/bayanihan.jpg)
-
-
 
 
 ### 6. Open Education Policy (Intellect)
@@ -299,9 +291,8 @@ This is very different from Philippine mentality where students only want to gra
 
 This Maharlikan policy calls for a repeal of Article 14 Section 4 Item 2 which is biased towards schools owned by religions. This repeal is consistent with the Open Religious Policy by adding schools, such as Chinese, Japanese, Korean, Islamic, and Hindu, that are not based on Western religion or culture.
 
-{{< q >}}
+{{< q a="1987 Constitution" >}}
 Educational institutions, other than those established by religious groups and mission boards, shall be owned solely by citizens of the Philippines or corporations or associations at least 60% of the capital of which is owned by such citizens.
-<cite>1987 Constitution</cite>
 {{< /q >}}
 
 
@@ -327,10 +318,10 @@ At the moment, the Philippines only has Western ideas and systems as a consequen
 
 <!-- This goes hand in hand with the open religious policy.  -->
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 5, Chapter 1" >}}
 The state should make the study of science and philosophy universal
-<cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
+
 
 
 ### 7. No Minimum Wage and Contractualization (Hard work)
@@ -346,9 +337,8 @@ This low productivity is in turn is caused by overpopulation:
 This overpopulation is caused by the Roman Catholic system*. The Philippine ban on population control leads to an oversupply of Filipinos which lowers productivity and makes them cheap. This causes them to move overseas as cheap labor, called Overseas Filipino Workers (OFWs). 
 
 
-{{< q a="Montesquieu" >}}
+{{< q a="Montesquieu" c="The Spirit of the Laws, Book 23, Chapter 22" >}}
 The Romans therefore had laws against abortion but did not follow them.
-<cite>The Spirit of the Laws, Book 23, Chapter 22</cite>
 {{< /q >}}
  
 
@@ -356,9 +346,8 @@ The Romans therefore had laws against abortion but did not follow them.
 
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 8" >}}
 Laws can never regulate wages properly, though it has often pretended to do so.
-<cite>The Wealth of Nations Simplified, Book 1, Chapter 8</cite>
 {{< /q >}}
 
 
@@ -377,14 +366,9 @@ The government can barter food and other non-monetary items in exchange for the 
 - raise land values
 
 
-{{< q a="David-Hume" >}}
-Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. 
-<cite>Essay 11: The Populousness Of Ancient Nations</cite>
+{{< q a="David Hume" c="Essay 11: The Populousness Of Ancient Nations" >}}
+Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. >
 {{< /q >}}
-
-<!--  General Goal: Sustainable Industrialization -->
-
-
 
 <!-- ## Long Term Goal: Colonization of Mars
 
