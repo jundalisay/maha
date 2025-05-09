@@ -5,7 +5,7 @@ date: 2021-09-02
 description: "Services, Tourism, Agriculture, Fisheries, Mining are the natural industries of Maharlika and the Philippines"
 image: "/photos/econ/callcenter.jpg"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

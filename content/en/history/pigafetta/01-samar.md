@@ -5,7 +5,7 @@ date: 2020-07-10
 weight: 2
 image: /photos/medieval/magellan.jpg
 description: "We simplify Pigafetta's accounts to make historical facts easier to understand"
-icon: /icons/sun.png
+
 author: Pigafetta
 aliases:
   /history/pigafetta/simplified-pigafetta

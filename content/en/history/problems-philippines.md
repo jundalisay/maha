@@ -4,7 +4,7 @@ description: "The Philippines had a lot more problems than Maharlika because of 
 date: 2021-09-02
 image: https://sorasystem.sirv.com/photos/mh/poorkidsrural800.jpg
 author: Juan
-icon: /icons/sun.png
+
 linkTitle: Problems in the Philippines
 ---
 

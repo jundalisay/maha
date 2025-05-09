@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 77
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
-icon: /icons/sun.png
+
 ---
 
 <!-- Quite near this large island of Luzon, many other islands, large and small, are located; they are inhabited by the same natives as Luzon, who have gold placers, sowed fields, and their trading.  -->

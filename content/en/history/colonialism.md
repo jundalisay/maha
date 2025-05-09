@@ -4,7 +4,7 @@ description: "Native populations bowed down to colonizers for the sake of peace 
 date: 2020-07-10
 image: /photos/medieval/arab.jpg
 author: Juan
-icon: /icons/sun.png
+
 aliases:
   /articles/how-did-colonialism-take-root/
   /articles/history/how-did-colonialism-take-root/  

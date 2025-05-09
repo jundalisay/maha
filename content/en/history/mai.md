@@ -6,7 +6,7 @@ linkTitle: American Colonization
 image: /photos/medieval/maharlika.jpg
 heading: "Could it be stopped?"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

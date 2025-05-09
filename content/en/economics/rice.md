@@ -5,7 +5,7 @@ date: 2025-01-30
 description: "The rice problem was already solved by the NFA which was fully integrated from import to wholesale"
 image: "/photos/grains.jpg"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

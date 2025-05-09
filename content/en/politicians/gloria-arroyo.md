@@ -6,7 +6,7 @@ linkTitle: Evil GMA
 description: "Gloria Macapagal-Arroyo or GMA is a neoliberal politician who is so skilled at finding ways to sell the country"
 image: "https://res.cloudinary.com/nara/image/upload/v1632384188/photos/gma800.jpg"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

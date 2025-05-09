@@ -5,7 +5,7 @@ date: 2024-09-15
 weight: 6
 image: /photos/medieval/magellan.jpg
 description: "The president and auditors arrived at the Filipinas on May 1584, while Diego Ronquillo was governing"
-icon: /icons/sun.png
+
 ---
 
 

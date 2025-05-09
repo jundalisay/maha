@@ -5,7 +5,7 @@ description: "Maharlikanism is our advocacy to change the economic and political
 date: 2021-07-07
 image: /photos/medieval/lapu.jpg
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

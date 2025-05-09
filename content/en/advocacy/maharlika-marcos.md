@@ -5,7 +5,7 @@ heading: The Future of the Philippines
 date: 2021-07-07
 image: /photos/marcos2.jpg
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

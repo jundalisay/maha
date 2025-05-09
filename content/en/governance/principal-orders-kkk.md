@@ -5,7 +5,7 @@ date: 2019-09-14
 image: /graphics/kkk.jpg
 description: "The Demands of the KKK in 1892 were mostly economic in nature"
 author: Juan
-icon: /icons/sun.png
+
 linkTitle: Katipunan
 ---
 

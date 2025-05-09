@@ -4,7 +4,7 @@ title: "Why is the Philippines Poor?"
 description: "The Philippines is Poor because of the decline in morals from the 16th century"
 image: "https://sorasystem.sirv.com/photos/riot.jpg"
 author: Juan
-icon: /icons/sun.png
+
 date: 2021-09-02
 ---
 

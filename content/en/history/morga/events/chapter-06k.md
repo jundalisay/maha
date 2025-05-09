@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 32
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
-icon: /icons/sun.png
+
 ---
 
 (Letter from Blas Ruis de Hernan Gonzalez)

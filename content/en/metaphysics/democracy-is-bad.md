@@ -5,7 +5,7 @@ linkTitle: Democracty is Bad
 image: /photos/social/protests.jpg 
 heading: "Maharlika was already free"
 author: Juan
-icon: /icons/sun.png
+
 date: 2021-09-02
 ---
 

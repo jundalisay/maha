@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 60
 image: /photos/medieval/magellan.jpg
 description: "He built a fort with arigues and palms near Tampacan, and founded a Spanish settlement which he named Murcia"
-icon: /icons/sun.png
+
 ---
 
 <!-- For the rest of 1605, until ships could go to Castilla, [190] the governor repaired the city, and supplied it with provisions and ammunition, with the special object and care that the decision which he was awaiting from the court for making an expedition to Maluco—of which he had been advised and warned—should not find him so unprepared as to cause him to delay the expedition. 

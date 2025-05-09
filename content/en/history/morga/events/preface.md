@@ -5,7 +5,7 @@ date: 2024-09-15
 weight: 2
 image: /photos/medieval/magellan.jpg
 description: "We simplify Morga"
-icon: /icons/sun.png
+
 ---
 
 

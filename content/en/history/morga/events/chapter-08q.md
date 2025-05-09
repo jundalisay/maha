@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 102
 image: /photos/medieval/magellan.jpg
 description: "Meat and fish they relish better when it has begun to spoil and when it stinks"
-icon: /icons/sun.png
+
 ---
 
 

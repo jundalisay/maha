@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 36
 image: /photos/medieval/magellan.jpg
 description: "Don Francisco Tello sent orders to Don Luis to return to the Filipinas and abandon the expedition to Camboja or anything else"
-icon: /icons/sun.png
+
 ---
 
 

@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 64
 image: /photos/medieval/magellan.jpg
 description: "The Dutch interest in these regions is so vast -- the trade of clove and other drugs and spices"
-icon: /icons/sun.png
+
 ---
 
 

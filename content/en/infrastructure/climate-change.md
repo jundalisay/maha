@@ -5,7 +5,7 @@ date: 2021-09-02
 description: "Maharlikans had their own natural way to deal with man-made and natural disasters"
 image: "/photos/objects/balangay.jpg"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

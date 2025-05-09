@@ -4,7 +4,7 @@ date: 2022-02-01
 description: Bayong Ball is our proposal for a Maharlikan version of basketball
 image: "/photos/basket.jpg"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 Basketball was invented in America by James Naismith as an indoor ball sports. 

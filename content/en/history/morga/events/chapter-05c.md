@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 10
 image: /photos/medieval/magellan.jpg
 description: "The Chinese rowers conspired 3 days before to seize the galley"
-icon: /icons/sun.png
+
 ---
 
 

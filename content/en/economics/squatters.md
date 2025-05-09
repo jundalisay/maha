@@ -5,7 +5,7 @@ date: 2014-09-14
 description: "Maharlikans transacted with foreigners using barter"
 image: "/photos/grains.jpg"
 author: Juan
-icon: /icons/sun.png
+
 draft: true
 ---
 

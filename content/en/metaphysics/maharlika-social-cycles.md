@@ -5,7 +5,7 @@ image: "/photos/medieval/lapu.jpg"
 heading: "3.5 years old"
 date: 2020-07-10
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

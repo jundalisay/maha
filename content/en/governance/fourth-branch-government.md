@@ -6,7 +6,7 @@ description: "Procurement problems can be minimized by merging audit, procuremen
 date: 2021-09-19
 image: "/photos/objects/calc.jpg"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

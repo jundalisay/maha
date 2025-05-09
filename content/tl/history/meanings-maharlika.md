@@ -5,7 +5,6 @@ date: 2023-11-10
 image: /photos/idea.jpg
 description: "Ang Maharlika ay isang pre-colonial na confederation na naka base sa Maynila"
 author: Juan
-icon: /icons/sun.png
 ---
 
 

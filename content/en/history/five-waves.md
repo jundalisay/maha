@@ -4,6 +4,6 @@ description: "America caused the Philippines to have its current set of problems
 date: 2020-07-10
 image: https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj
 author: Juan
-icon: /icons/sun.png
+
 draft: true
 ---

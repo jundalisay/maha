@@ -5,7 +5,6 @@ date: 2021-09-02
 description: "EDSA traffic can never be solved without massive infrastructure because the design of the EDSA areas is wrong."
 image: "https://sorasystem.sirv.com/photos/mh/edsa600.jpg"
 author: Juan
-icon: /icons/sun.pngpng
 aliases:
   /articles/edsa-traffic-can-never-be-solved
   /articles/infrastructure/edsa-traffic/

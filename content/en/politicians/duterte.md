@@ -6,7 +6,7 @@ linkTitle: Benevolent Dictator
 date: 2021-09-30
 image: https://sorasystem.sirv.com/photos/duterte.jpg
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

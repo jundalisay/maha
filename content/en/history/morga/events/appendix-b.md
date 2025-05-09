@@ -5,7 +5,7 @@ date: 2024-09-15
 weight: 106
 image: /photos/medieval/magellan.jpg
 description: "According to ancient and modern cosmographers, that part of the world called Asia has adjacent to it a multitude of greater and lesser islands"
-icon: /icons/sun.png
+
 ---
 
 

@@ -6,16 +6,15 @@ weight: 6
 image: "/graphics/bayanihan.jpg"
 description : "We fix the faulty Ambisyon 2040 through a 5-phase plan called Maharlika 2050"
 author: Juan
-icon: "/flags/ph.png"
 aliases:
   /social/cycles/philippines
 ---
 
 
 
-Current Cycle | Years per Cycle | Social Age
+<!-- Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
-Positive Warrior  | 12 | 5.5
+Positive Warrior  | 12 | 5.5 -->
 
 
 The [previous post](/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
@@ -23,7 +22,7 @@ The [previous post](/economics/dutertenomics) explained the problem with the Key
 
 ## Society Subsidizing the Rich
 
-The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
+The main flaw of that plan was that it catered to businessmen of society and neglected [the other 3 classes](https://www.superphysics.org/social/supersociology/principles/part-1/chapter-05/).
 
 
 Class | Socratic Name | Hindu Name | Example
@@ -36,66 +35,59 @@ Thinkers | Aristocrats "The Best" | Brahmin | Universities, Researchers, Invento
 
 A society needs all 4 classes to be in good shape just as a human body needs all its organs working properly. A weakness in one organ leads to disease or even death. 
 
-With the 3 classes weakened, the Philippine economy easily collapsed after pandemic struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
+With the 3 classes weakened, the Philippine economy easily collapsed after the pandemic struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
 
-The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by that same merchant class.** 
+But the debt is sourced from the business class (Traders), the same class that caused the weakness. **Thus, the solution to the problem created by the business class is also facilitated by that same business class.** 
 
-It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
+It would be like getting thieves to be in charge of security in your company. They would allow expert burglaries which can only be solved by themselves to keep themselves employed while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
 
 Such a genius scheme in macroeconomics really began in the 1970s after the Nixon shock. Billionaire investor Jeremy Grantham explains:
 
 {{< youtube hIKG2YpFoFQ >}}
 
 
+The profit maximization doctrine of the business class stops economic growth. And so the same class lobbies for government to get into debt (as Keynesian "deficit spending") to jump start the economy that was slowed down by the same business class.
 
-The profit maximization doctrine of the merchant class stops growth. And so the merchant class lobbies for public debt, as Keynesian "deficit spending". This is really paid for by the entire society. 
-
-Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
-
-
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2" >}}
-The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
-{{< /q >}}
+And so governments get deeper into debt, while corporations get richer by shifting the cost of growth to the government while keeping only the rewards.
 
 
-{{< q a="Adan-Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+<!-- q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2" >}}
+The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge. -->
+
+
+{{< q a="Adan Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
 {{< /q >}}
 
 
 
-Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
+Debt shifts the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
-This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
+This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation.
 
-However, it raises more money than the old practice of anticipation.
-
-When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
-
-Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
+When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /q >}}
 
 
+Here, we explain the proper solution as **Maharlika 2050** which puts the business class back in line with the other classes.
 
-
-
-Here, we explain the proper solution as **Maharlika 2050** which puts the merchant class back in line with the other classes, specifically by:
+<!-- , specifically by:
 - overhauling Filipino Catholic-Islamic mentality into Maharlikan Science-Math thinking
 - repealing dual citizenship in order to raise revenues
 - banning crypto and NFT to reduce inflation and global warming
 - hybrid PPP to create green energy and food sovereignty
-- traditional barter trade to insulate against financial and debt crises
+- traditional barter trade to insulate against financial and debt crises -->
 
 
 ## The Invisible Colonial Curse
 
 The main problem of the country is poverty and inequality brought by years of colonial and neocolonial rule.
 - The **colonial rule** was done through Spain and its military and Church<!-- , through its weapons and tactics -->. This is the dominance of the militant class (Spanish navy) and the philosopher class (Spanish Catholic Church)
-- The **neocolonial rule** was done through the US and its mercant-class financial system (debt and equity-globalization)
+- The **neocolonial rule** was done through the US and its business-class financial system (debt and equity-globalization)
 
-These 2 phenomena stifle the natives (populist class) who end up as:
+These 2 phenomena stifle the natives (working class) who end up as:
 - overseas slaves called OFWs (overseas Filipino workers)
 - lowly call center agents
 

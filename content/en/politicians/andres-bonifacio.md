@@ -6,7 +6,7 @@ date: 2020-04-06
 linkTitle: Bonifacio Hero
 image: /graphics/mh/boni.jpg
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

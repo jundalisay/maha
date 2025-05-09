@@ -6,7 +6,7 @@ date: 2022-03-30
 description: "The Philippines fell from its Industrialization Path because of Diosdado Macapagal in 1962"
 image: "/photos/objects/regicide.jpg"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

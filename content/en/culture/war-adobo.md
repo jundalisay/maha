@@ -6,7 +6,7 @@ description: "Sinigang is the best example of Maharlikan food and should be prom
 image: "/photos/food/sinig.jpg"
 author: Juan
 tags: ["Adobo"]
-icon: /icons/sun.png
+
 ---
 
 <!-- Current cuisine, referenced with Pigafetta's records show what are the essential ingredients of Maharlikan food -->

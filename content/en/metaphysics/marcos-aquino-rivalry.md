@@ -6,7 +6,7 @@ description: "The Marcos-Aquino Rivalry is just the liberal vs conservative vers
 linkTitle: Marcos-Aquino Rivalry
 image: /photos/coryv.jpg
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 

@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 39
 image: /photos/medieval/magellan.jpg
 description: "Faranda Quiemon and his supporters incited Taicosama to send a fleet against Manila."
-icon: /icons/sun.png
+
 ---
 
 

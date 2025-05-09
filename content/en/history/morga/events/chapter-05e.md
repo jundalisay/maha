@@ -5,7 +5,7 @@ date: 2024-09-22
 weight: 12
 image: /photos/medieval/magellan.jpg
 description: "Anacaparan had taken the country as the new king against the will of the others"
-icon: /icons/sun.png
+
 ---
 
 

@@ -5,7 +5,7 @@ date: 2021-07-07
 image: /photos/idea.jpg
 description: "Maharlika was the name of the pre-colonial confederation based in the city of Manila in the Philippines"
 author: Juan
-icon: /icons/sun.png
+
 ---
 
 
