@@ -19,10 +19,13 @@ DefaultContentLanguageInSubdir = false
         url = "advocacy"
         weight = 1
     [[languages.en.menu.main]]
-        identifier = "sp"
+        name = "History"
+        url = "history"
+        weight = 2
+    [[languages.en.menu.main]]
         name = "Writers"
         url = "writers"
-        weight = 2
+        weight = 11
     [[languages.en.menu.main]]
         name = "Politicians"
         url = "politicians"
@@ -39,6 +42,10 @@ DefaultContentLanguageInSubdir = false
         name = "Economics"
         url = "economics"
         weight = 6
+    [[languages.en.menu.main]]
+        name = "Infra"
+        url = "infrastructure"
+        weight = 7
     [[languages.en.menu.main]]
         name = "Culture"
         url = "culture"
