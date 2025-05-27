@@ -1,3 +1,54 @@
+## A Confederation Based on Trade
+
+Based on the definition of Chinese historian Chau-ju-kua, the **immediate** territory of Maharlika included:
+- Luzon (Tondo, Bulacan)
+- Visayas
+- Western Mindanao + Sabah (Pigafetta writes that Cagayan in Mindanao was a penal colony for Borneo)
+- Eastern Mindanao (Kingdom of Butuan or Masawa)
+- Babuyan Islands
+
+However, there was no single constitution as all the cities were independent:
+
+
+{{< q a="Chau Ju Kua" c="Chun Fan Chi" >}}
+A ship will not remain at anchor longer than three or four days, after which it proceeds to another place; for the savage settlements along the coast of San-su [Visayas] are not connected by common jurisdiction [i.e. are all independent]
+{{< /q >}}
+
+
+This is common in archipelagos. For example, the Greeks were divided into city-states -- The Spartans fought the Athenians and the Athenians fought the Thebans. 
+
+
+Yet, we call them all as 'the Greeks'. We never take Sparta nor Athens by themselves in isolation, just as we never regard Mindanao in isolation from Luzon, though both can be isolated from Thailand or Papua New Guinea. 
+
+
+The nobilities were then unified by confederation which allowed each area to have freedom in politics, economics, and culture. Maharlika was part of a regional trade network that included:
+- Northern Taiwan
+- Luzon (Tondo, Bulacan, Ilocos)
+- Visayas (Cebu)
+- Mindanao (Butuan as Masawa)
+- Borneo (Brunei)
+- Moluccas 
+- Celebes
+- Tendaya
+
+
+{{< q a="Antonio Morga">}}
+According to ancient and modern cosmographers, that part of the world called Asia has adjacent to it a multitude of greater and lesser islands, inhabited by various nations and peoples, and as rich in precious stones, gold, silver, and other minerals, as they abound in fruit and grain, flocks, and animals.
+
+Some of the islands yield all kinds of spices which are carried away and distributed throughout the world. These islands are commonly designated.. as the great archipelago of San Lazaro. 
+
+Among the most famous of them are the islands of Maluco, Céleves, Tendaya, Luzon, Mindanao, and Borneo, which are now called the Filipinas.
+{{< /q >}}
+
+
+*The Filipinas* was the resource-rich region that the Spanish wanted, of which Maharlika was a part. Therefore, **Filipinas, Philippines, or Pilipinas are all abstract ideas of the Spanish which really expressed their ambition and greed** instead of anything about the nations in Southeast Asia. 
+
+In other words, "The Philippines" has nothing to do with Filipinos, but everything to do with the Spanish desire for precious stones, gold, silver, minerals, fruit, grain, animals, and spices. So being "proud to be Pinoy" means being proud for your **land** having precious metals, bananas, coconuts, tuna, etc. and not really for you having skills, morals, or intellect.  
+
+
+
+
+
 
 <div style="background-color: {{ .Params.c }}" class="mx-auto text-white flex items-center justify-center min-h-[200px] rounded-lg shadow hover:scale-110 text-white w-full">
   <a href="{{ .Permalink }}">

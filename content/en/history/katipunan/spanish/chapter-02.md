@@ -1,5 +1,5 @@
 ---
-title: "The Katipunan"
+title: "Freemasonry"
 c: "darkslategray"
 date: 2025-05-05
 weight: 10
@@ -7,21 +7,48 @@ description: "The history of the KKK"
 ---
 
 
-
-[Contents]
-Freemasonry
-
 Freemasonry has been the principal factor for the development in these islands for:
 - anti-religious ideas
 - secret societies
 
-Some 20 years ago, there was installed in this country, a lodge dependent upon the Gr∴ Or∴ Español (7): a lodge which was inoffensive in its beginning because it was composed of peninsular Spaniards, with the absolute exclusion of the native element of the Archipelago. In this form it developed languidly until the year 1890.
+Some 20 years ago, there was installed in this country, a lodge dependent upon the Gr∴ Or∴ Español (7).
 
-During this epoch, the Filipino colony resident in Madrid, Hong-Kong and Paris, in the which figured as exalted separatists José Rizal (8), Marcelo H. del Pilar (9), Graciano Lopez, Mariano Ponce, Eduardo Lete, Antonio and Juan Luna (10), Julio Llorente, Salvador V. del Rosario, Doroteo Cortés (11), José Baza, Pedro Serrano (12), Moisés Salvador, Galicano Apacible and many others, who were in communication with the seditious elements of Manila, strove hard to influence don Miguel Morayta (13), (Grand master of the Oriente Español), in Madrid, and with whom they sustained close [15]relations, to the end that the statutes should be reformed so that the native element might be affiliated, and even more, that lodges of a character exclusively Tagalog (14), might be created in the Archipelago.
+It was inoffensive in its beginning because it was composed of peninsular Spaniards, with the absolute exclusion of natives.
 
-Conferences, general gatherings, and finally compromises of certain magnitude decided in the favor of the Filipinos, Morayta thus, unconsciously sowing the seed, the fruit of which we are to-day gathering.
+It developed languidly until 1890.
 
-D. Alejandro Roji, resident in this capital, Captain of Engineers, was nominated general delegate to direct the works, and with ample powers from Morayta, came the native school-teacher Pedro Serrano, who enjoyed in Manila the confidence and protection of the said Colonel, assisted by the Flores, lieutenants of Infantry, Numeriano Adriano, Ambrosio Rianzares, Juan Zulueta, Faustino Villaruel (15), Agustin de la Rosa, Ambrosio Salvador, Andrés Bonifacio (16), Apolinario Mabini (17), Estanislao Legaspi Domingo Franco (18), Román Basa, Deodato Arellano, Antonio Salazar, Felipe Zamora, Nazario Constantino, Bonifacio Arevalo, Pedro Casimiro, Dionisio Ferraz, Timoteo Paez and a thousand others, all indians, but having a career or a comfortable [16]social position; they commenced a silent and tenacious propaganda which resulted in 180 Tagalog lodges, extended throughout the territory of Luzon and part of the Bisayas, being constituted in 5 years. The character of the native (19), so propitious to all the mysterious and symbolic, easily accustomed itself to the ridiculous practices of freemasonry: the initiations (20), the proofs (21), the oaths (22), attributes, signs and pass words, and the pseudonyms, all and everything surrounded by shade and mystery, appealed to the native and served him as an educative ladder which prepared his mind for his entry into other associations of graver transcendencies, according as the initiators and apostles of filibusterism, Rizal, Pilar, López, Cortés and Zulueta had forseen, as can be proved by that correspondence which has come to my hands.
+During this epoch, the Filipino colony in Madrid, Hong-Kong and Paris had the exalted separatists:
+- José Rizal
+- Marcelo H. del Pilar
+- Graciano Lopez
+- Mariano Ponce
+- Eduardo Lete
+- Antonio and Juan Luna
+- Julio Llorente
+- Salvador V. del Rosario
+- Doroteo Cortés
+- José Baza
+- Pedro Serrano
+- Moisés Salvador
+- Galicano Apacible and many others
+
+There were in communication with the seditious elements of Manila, strove hard to influence don Miguel Morayta (13), (Grand master of the Oriente Español), in Madrid who they were close to.
+
+They wanted the statutes to be reformed so that the native character could be made exclusively Tagalog in the Archipelago.
+
+Conferences, general gatherings, and finally compromises decided in the favor of the Filipinos. Morayta thus, unconsciously sowed the seed.
+
+D. Alejandro Roji, resident in this capital, Captain of Engineers, was nominated general delegate to direct the works.
+
+With ample powers from Morayta, came the native school-teacher Pedro Serrano, who enjoyed in Manila the confidence and protection of the said Colonel.
+
+Serrano was assisted by the Flores, lieutenants of Infantry, Numeriano Adriano, Ambrosio Rianzares, Juan Zulueta, Faustino Villaruel (15), Agustin de la Rosa, Ambrosio Salvador, Andrés Bonifacio (16), Apolinario Mabini (17), Estanislao Legaspi Domingo Franco (18), Román Basa, Deodato Arellano, Antonio Salazar, Felipe Zamora, Nazario Constantino, Bonifacio Arevalo, Pedro Casimiro, Dionisio Ferraz, Timoteo Paez and a thousand others.
+
+They were all indians with a career or a comfortable social position.
+
+They commenced a silent and tenacious propaganda which resulted in 180 Tagalog lodges, extended throughout the territory of Luzon and part of the Bisayas, being constituted in 5 years. 
+
+The character of the native (19), so propitious to all the mysterious and symbolic, easily accustomed itself to the ridiculous practices of freemasonry: the initiations (20), the proofs (21), the oaths (22), attributes, signs and pass words, and the pseudonyms, all and everything surrounded by shade and mystery, appealed to the native and served him as an educative ladder which prepared his mind for his entry into other associations of graver transcendencies, according as the initiators and apostles of filibusterism, Rizal, Pilar, López, Cortés and Zulueta had forseen, as can be proved by that correspondence which has come to my hands.
 
 In order to direct the organization of the lodges dependant upon the Gran Oriente Español, there was constituted by Morayta, a Gran Consejo Regional (23) which received its instructions from him, and which was presided over by Ambrosio Flores (h∴ Muza), and formed of Adriano, Villaruel, Flores (A), Mabini, Paez, Zamora, [17]Mariano and Salazar. The newspaper La Solidaridad (24) which, in the previous year had been founded in Barcelona by M. Pilar, as a delegate of the propaganda of Manila, and the publishing centre of which was later on translated to Madrid, was declared the official organ of all Filipino masonry; and in its collaboration, all the Filipinos of a medium culture resident in the capital, took a hand, under the auspices and direction of its new proprietor, the oft-mentioned and ill-starred Morayta.
 
