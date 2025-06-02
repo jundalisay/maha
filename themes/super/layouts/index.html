@@ -154,6 +154,13 @@
   </div>
 
 
+  {{ with .Site.Params.quote }}
+    {{ range . }}
+      {{ partial "quoter.html" . }}
+    {{ end }}
+  {{ end }}
+
+    
   {{ with .Site.Params.change }}
     {{ partial "change.html" . }}
   {{ end }}
@@ -162,12 +169,6 @@
     {{ partial "banner.html" . }}
   {{ end }}
   
-    {{ with .Site.Params.quote }}
-      {{ range . }}
-        {{ partial "quoter.html" . }}
-      {{ end }}
-    {{ end }}
-
   {{ with .Site.Params.tricon }}
     {{- partial "tricon" . -}}
   {{ end }}    
