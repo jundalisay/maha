@@ -100,29 +100,3 @@ Ximonojo took possession of all the merchandise, and imprisoned the Spaniards wi
 
 Having exercised great rigor therein, he returned to court, after granting permission to the general and others of his suite to go to Miaco.
 
-The ambassadors who had been sent before to Miaco with the present, were unable to see Taico, although the present was accepted; nor did they succeed in making any profitable arrangement, although father Fray Pedro Baptista, superior of the Franciscan religious residing there, employed many methods for the purpose of remedying the grievance of the Spaniards.
-
-These attempts only served to intensify the evil. The favorites were infidels and hated the religious for making converts at court.
-
-They saw Taico so bent on the ship's riches and so unwilling to listen to any restitution. So they set Taicosama against the Spaniards, telling him that the religious and the men from the ship were all subjects of one sovereign, and conquerors of others' kingdoms. 
-
- <!-- not only did not ask him to do so, but in order to make the matter easier, and taking advantage of the occasion, set  -->
-
-Our pilot, Francisco de Sanda, had shown Ximonojo the sea-chart of all the countries discovered, and España and the other kingdoms possessed by his Majesty, among which were Piru and Nueva España.
-
-Ximonojo asked the pilot how those distant kingdoms were gained. The pilot replied that the religious had entered first and preached their religion. Then the soldiers had followed and subdued them.
-
-So Ximonojo told Taicosama that:
-- the Spaniards conquered by:
-  - first sending their religious to the kingdoms
-  - then entering after with their arms
-- they would do this with Xapon
-
-<!-- They were aided in this purpose by the fact that when the favorite, who went to seize the property of the ship, was in Hurando,  -->
-
-
-<!-- It is true that the said pilot imprudently gave those reasons, which Ximonojo noted well and kept in mind, in order to relate them to Taicosama whenever a suitable opportunity should present itself, which he now did. -->
-
-
- <!-- and like the barbarous and so avaricious tyrant that he was, he gave  -->
-

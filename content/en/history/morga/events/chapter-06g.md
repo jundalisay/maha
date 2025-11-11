@@ -9,6 +9,44 @@ description: "He built a fort with arigues and palms near Tampacan, and founded 
 ---
 
 
+
+The ambassadors who had been sent to Miaco with the gift:
+- were unable to see Taico even if the gift was was accepted.
+- failed to get any profitable arrangement
+
+Father Fray Pedro Baptista was the superior of the Franciscan religious in Miaco.
+- He tried many methods to remedy the grievance of the Spaniards.
+- But these attempts only intensified the evil.
+
+The favorites of the emperor:
+- were infidels 
+- hated the religious for making converts at court
+- saw Taico so:
+  - bent on the ship's riches
+  - unwilling to listen to any restitution
+
+So they set Taicosama against the Spaniards, telling him that the religious and the men from the ship were all:
+- subjects of one sovereign, and
+- conquerors of others' kingdoms
+
+ <!-- not only did not ask him to do so, but in order to make the matter easier, and taking advantage of the occasion, set  -->
+
+Our pilot, Francisco de Sanda, had shown Ximonojo the sea-chart of all the countries discovered, and España and the other kingdoms possessed by his Majesty, among which were Peru and Nueva España.
+
+Ximonojo asked the pilot how those distant kingdoms were gained. The pilot replied that the religious had entered first and preached their religion. Then the soldiers had followed and subdued them.
+
+So Ximonojo told Taicosama that:
+- the Spaniards conquered by:
+  - first sending their religious to the kingdoms
+  - then entering after with their arms
+- they would do this with Xapon
+
+<!-- They were aided in this purpose by the fact that when the favorite, who went to seize the property of the ship, was in Hurando,  -->
+
+<!-- It is true that the said pilot imprudently gave those reasons, which Ximonojo noted well and kept in mind, in order to relate them to Taicosama whenever a suitable opportunity should present itself, which he now did. -->
+
+ <!-- and like the barbarous and so avaricious tyrant that he was, he gave  -->
+
 All this, together with the persistence of the religious begging Taico to restore the merchandise to the Spaniards, angered him thoroughly.
 
 Taicosama ordered to crucify them all and all the religious who preached the religion of Namban [86] in his kingdoms. 

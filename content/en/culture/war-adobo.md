@@ -17,7 +17,6 @@ An important advoacy of Maharlikanism is the introduction of Maharlikan food as 
 ## Spanish and Chinese Food
 
 From Spain:
-- Adobo
 - Mechado
 - Caldereta
 - Lechon
@@ -30,19 +29,24 @@ From Spain:
 {{< img src="/photos/food/adobopork.jpg" alt="Adobo" cap="Philippine Adobo is full of cholesterol and oils, keeping heart disease and high healthcare costs near" >}}
 
 From China:
-- Soy sauce
+- Soy sauce (Adobo)
 - Fish sauce
 - Pancit
 - Mami
 - Misua
 
 
-The meaty and oily Spanish influence leads to heart problems, while the salty Chinese influence lead to kidney problems. These then matches the high trend in hypertension, heart problems and the need for dialysis among Filipinos (as to be a target of a Philhealth scam).
+The meaty and oily Spanish influence leads to heart problems, while the salty Chinese influence lead to kidney problems. 
+
+These then matches the high trend in hypertension, heart problems and the need for dialysis among Filipinos (as to be a target of a Philhealth scam).
+
+{{< i s="/graphics/bio/kidney.jpg" a="Kidney Disease" >}}
+
 
 The worst food of these are Pork Adobo and Lechon which are full of heavy fats and oils. These are not natural to Maharlikan bodies or islander bodies which are used to seafood, vegetables, and fowl-meat. 
 
 {{< q a="Socrates" c="The Republic, Book 1" >}}
-<p>Polydamas, the pancratiast, is stronger than us. He finds the beef conducive to his bodily strength. Does that mean that beef is equally good and just for us who are weaker?</p>
+Polydamas, the pancratiast, is stronger than us. He finds the beef conducive to his bodily strength. Does that mean that beef is equally good and just for us who are weaker?
 {{< /q >}}
 
 
@@ -75,6 +79,7 @@ Raha Colambu, was also the king of Butuan and Calagan. He gave Magellan a large 
 {{< q a="Antonio Pigafetta" >}}
 Each tray contained 12 porcelain dishes full of veal, capons, chickens, peacocks, and other animals, and fish. We supped on the ground upon a palm mat from 32 different kinds of meat besides the fish and other things.
 {{< /q >}}
+
 
 As you can see, Maharlikan food focus on local rootcrops, vegetables, spices, and fruits, plus a diversity of meats. 
 

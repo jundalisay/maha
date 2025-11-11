@@ -116,7 +116,9 @@ He asked the governor to issue new instructions on what to do, saying that he wo
 
  <!-- without making any change, notwithstanding the arrival of the answer which he expected to his first report, for conditions had now become so much better than before that the governor's decision would be different. -->
 
-The governor had already answered Don Joan Ronquillo's first despatch, as we have said above, when the second despatch arrived with news of the successes in Mindanao. Suspicious of the men in the camp who had constantly shown a desire to return to Manila, and little relish for the hardships of war, and fearing lest they would return at the arrival of the first order, executing that order and abandoning the enterprise which had reached such a satisfactory stage; and thinking that it would be unwise to abandon the river: the governor made haste to send a second despatch immediately by various roads, ordering them to pay no attention to his first orders, but to remain in Mindanao, and that he would soon send them what was necessary for further operations.
+The governor had already answered Don Joan Ronquillo's first despatch, as we have said above, when the second despatch arrived with news of the successes in Mindanao. 
+
+Suspicious of the men in the camp who had constantly shown a desire to return to Manila, and little relish for the hardships of war, and fearing lest they would return at the arrival of the first order, executing that order and abandoning the enterprise which had reached such a satisfactory stage; and thinking that it would be unwise to abandon the river: the governor made haste to send a second despatch immediately by various roads, ordering them to pay no attention to his first orders, but to remain in Mindanao, and that he would soon send them what was necessary for further operations.
 
 It seems that this message traveled slowly; for, the first having arrived, they obeyed it without any further delay, and camp was raised and the country abandoned. 
 

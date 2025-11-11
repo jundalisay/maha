@@ -1,3 +1,11 @@
+---
+heading: Appendix B5
+title: "The second expedition of Paul van Caerden"
+date: 2024-09-15
+weight: 3
+image: /photos/medieval/magellan.jpg
+description: ""
+---
 
 
 The second expedition of Paul van Caerden (1606-1609) consisted of eight vessels, equipped at a cost of 1,825,135 livres.

@@ -5,7 +5,7 @@ date: 2021-09-30
 description: "Maharlikans transacted with foreigners using barter"
 image: "/photos/barter.jpg"
 author: Juan
-
+icon: Juan
 ---
 
 
@@ -63,4 +63,33 @@ The barter system of the Inca and Egyptian empires was more scalable. It used gr
 We scale the barter system of Maharlika by using points on a web server as the tool of trade. This creates a [points-based system](https://pantrypoints.com) as an implementation of the bayanihan economy. 
 
 ![Bayanihan Economy](/graphics/bayanihan.jpg)
+
+
+## Alipin Namamahay or Servitude as Debt Payment
+
+Non payment of debts would lead to servitude as aliping namamahay. 
+
+This was common in all countries before commercialization was spread by the European colonial system.
+
+
+{{< q c="Leviticus 25:39-43" >}}
+If any of your fellow Israelites become poor and sell themselves to you, do not make them work as slaves. They are to be treated as hired workers or temporary residents among you. They are to work for you until the Year of Jubilee. Then they and their children are to be released
+{{< /q >}}
+
+
+In the rival commercial system, these are now called 'kasambahay' who are maids who live in the master's house to get the benefits of having a house with electricity, water, internet, proximity to stores and businesses, etc. 
+
+The solution of Maharlikanism to debt is to use:
+
+1. Moneyless points-valuation
+
+This removes the time value of money, discarding interest rates. This prevents debt slavery and economic injustice by the creditor. 
+
+2. Points Banking
+
+This checks the actual productivity of the debtor before getting the debt. This prevents the creditor from being scammed and ensures that the creditor will get something back. 
+
+Failure to pay will make the debtor [go back to the commercial system](/social/economics/principles/part-3/chapter-02c.md) which has the economic problems that we have today.
+
+
 
