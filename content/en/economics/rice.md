@@ -3,10 +3,10 @@ title: "Why Did Finance Push for Evil Rice Tariffication?"
 weight: 2
 date: 2025-01-30
 description: "The rice problem was already solved by the NFA which was fully integrated from import to wholesale"
-image: "/photos/grains.jpg"
+image: "/photos/econ/rice.jpg"
 author: Juan
-
 ---
+
 
 
 The rice problem was already solved by the NFA which was fully integrated from import to wholesale (no middlemen).

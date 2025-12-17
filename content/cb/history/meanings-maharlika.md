@@ -2,10 +2,9 @@
 title: "Ano ang Ibig Sabihin ng Maharlika?"
 heading: ""
 date: 2023-11-10
-image: /photos/idea.jpg
+image: /photos/econ/read.jpg
 description: "Ang Maharlika ay isang pre-colonial na confederation na naka base sa Maynila"
 author: Juan
-
 draft: true
 ---
 

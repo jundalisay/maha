@@ -117,10 +117,10 @@ DefaultContentLanguageInSubdir = false
       # sub = "The analog universe streams in real-definition to create reality"
       youtube = "JLGMATjNW0c"
       cards = [
-        { img= "/photos/medieval/lapu.jpg", title = "1: Constitutional Virtues", url = "/advocacy/maharlikanism", sub = "A New, Systemic Moral Foundation" },
-        { img= "/photos/idea.jpg", title = "2: Federalism with Bicameral Parliament", url = "/governance/federalism", sub = "Democracy with a Focus" },        
-        { img= "/photos/objects/gold.jpg", title = "3: The Fourth Branch of Government", url = "/governance/fourth-branch-government", sub = "The Resources Branch" },
-        { img= "/photos/socrates.jpg", title = "4: The Maharlikan Academy", url = "/governance/maharlikan-academy/", sub = "Preserving and Prommoting Maharlikan Culture" }
+        { img= "/photos/meta/anito.jpg", title = "1: Constitutional Virtues", url = "/advocacy/maharlikanism", sub = "A New, Systemic Moral Foundation" },
+        { img= "/photos/social/lawmaker.jpg", title = "2: Federalism with Bicameral Parliament", url = "/governance/federalism", sub = "Democracy with a Focus" },        
+        { img= "/photos/econ/freight.jpg", title = "3: The Fourth Branch of Government", url = "/governance/fourth-branch-government", sub = "The Resources Branch" },
+        { img= "/photos/social/grad.jpg", title = "4: The Maharlikan Academy", url = "/governance/maharlikan-academy/", sub = "Preserving and Prommoting Maharlikan Culture" }
       ]
 
   [languages.tl]

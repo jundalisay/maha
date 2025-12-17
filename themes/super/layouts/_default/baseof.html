@@ -5,6 +5,7 @@
 
   <body class="relative flex flex-col min-h-screen">
 
+
 <!-- Scroll to Top SVG -->
 <button 
   onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"
@@ -30,7 +31,9 @@
 </button>
     
     <!-- flex-1 -->
-    <main class="dark:bg-black">
+    <!-- Keep your original main but add flex-grow -->
+    <main class="dark:bg-black flex-grow">
+
     {{ partial "header.html" . }}
 
         {{ block "main" . }}{{ end }}

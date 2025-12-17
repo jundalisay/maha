@@ -2,11 +2,11 @@
 title: "The 3 Meanings of Maharlika"
 heading: "A small country where great things come from"
 date: 2021-07-07
-image: /photos/idea.jpg
+image: /photos/econ/read.jpg
 description: "Maharlika was the name of the pre-colonial confederation based in the city of Manila in the Philippines"
 author: Juan
-
 ---
+
 
 
 Maharlika was the name of the pre-colonial confederation based in the city of **Manila**. 
