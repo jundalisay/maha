@@ -6,8 +6,9 @@ weight: 18
 image: /photos/medieval/magellan.jpg
 description: "Then we came to a large island [Mindanao], at a port called Chipit and met its king Raja Calanao"
 author: Pigafetta
+aliases:
+  /history/pigafetta/07-brunei
 ---
-
 
 
 ### Brunei

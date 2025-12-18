@@ -8,7 +8,8 @@ description: "Then we came to a large island [Mindanao], at a port called Chipit
 author: Pigafetta
 aliases:
   /maharlika/history/simplified-pigafetta3
-  /history/pigafetta/simplified-pigafetta3  
+  /history/pigafetta/simplified-pigafetta3 
+  /history/pigafetta/06-zamboanga
 ---
 
 

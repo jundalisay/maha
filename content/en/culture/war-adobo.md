@@ -3,7 +3,7 @@ title: "War on Adobo"
 date: 2022-03-28
 heading: The Promotion of Sinigang
 description: "Sinigang is the best example of Maharlikan food and should be promoted over the unhealthy Filipino food called adobo"
-image: "/photos/food/sinig.jpg"
+image: "/photos/econ/cook.jpg"
 author: Juan
 tags: ["Adobo"]
 

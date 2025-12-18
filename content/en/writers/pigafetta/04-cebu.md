@@ -5,10 +5,10 @@ date: 2020-07-10
 weight: 8
 image: /photos/medieval/magellan.jpg
 description: "We then went northwest, passing among 5 islands Ceylon, Bohol, Canighan, Baybai, Gatighan"
-
 aliases:
   /maharlika/history/simplified-pigafetta2
-  /history/pigafetta/simplified-pigafetta2  
+  /history/pigafetta/simplified-pigafetta2 
+  /history/pigafetta/04-cebu
 ---
 
 

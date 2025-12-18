@@ -3,8 +3,8 @@ title: "Why America should not have colonized the Philippines"
 description: "America caused the Philippines to have its current set of problems such as corruption, materialism, and drugs"
 date: 2020-07-10
 linkTitle: American Colonization
-image: /photos/medieval/maharlika.jpg
-heading: "Could it be stopped?"
+image: /photos/people/pershing.jpg
+# heading: "Could it be stopped?"
 author: Juan
 
 ---
