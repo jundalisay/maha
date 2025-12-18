@@ -3,16 +3,17 @@ title: "Why Malls are Popular in the Philippines"
 heading: "Free airconditioning"
 description: "Malls are Popular in the Philippines because it really is free airconditioning"
 date: 2021-09-02
-image: /photos/objects/sun.jpg
-linkf: "/maharlika/infrastructure/"
-linkftext: "Infrastructure"
-linkb: "/maharlika/infrastructure/edsa-traffic"
-linkbtext: "EDSA Traffic"
+image: /photos/objects/mall.jpg
 ---
+
+
 
 Supermalls in the Philippines are the product of Henry Sy when he built [SM North Edsa](https://en.wikipedia.org/wiki/SM_City_North_EDSA) in the 1980's. Back then, malls took the form of department stores such as Isettan in Cubao. 
 
 Sy's innovation was to add an airconditioned environment to the usual area of retail shops. This made shopping cool, clean, and convenient, which is a major improvement in polluted urban centers. 
+
+{{< i s="/photos/objects/mall.jpg" a="Mall" >}}
+
 
 The trend of rising power rates arising from the evil privatization of electricity and water made malls even more appealing. Instead of spending for electric fans or aircon at home, they could spend their time in malls and do their busness there.  
 

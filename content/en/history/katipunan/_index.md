@@ -1,7 +1,7 @@
 ---
 title: "The Katipunan"
-c: "seagreen"
-date: 2020-10-31
+c: "darkslategray"
+date: 2025-05-05
 weight: 10
-description: "The history of Maharlika"
+description: "The history of the KKK"
 ---

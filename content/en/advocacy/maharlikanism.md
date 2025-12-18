@@ -3,7 +3,7 @@ title: "Maharlikanism and the 8 Constitutional Virtues"
 heading: "An Overhaul of the Philippines"
 description: "Maharlikanism is our advocacy to change the economic and political systems of the Philippines which are breaking down due to global warming and the internet"
 date: 2021-07-07
-image: /photos/medieval/lapu.jpg
+image: /photos/meta/anito.jpg
 author: Juan
 
 ---

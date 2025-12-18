@@ -3,9 +3,8 @@ title: "How the Maharlikans Dealt with Climate Change"
 heading: "Precolonial Diaster Mitigation"
 date: 2021-09-02
 description: "Maharlikans had their own natural way to deal with man-made and natural disasters"
-image: "/photos/objects/balangay.jpg"
+image: "/photos/objects/boat.jpg"
 author: Juan
-
 ---
 
 
@@ -30,9 +29,8 @@ Maharlika was not a stranger to disasters both man-made or natural. Earthquakes 
 
 There were also man-made disasters as rival tribes who came to destroy entire villages. 
 
-{{< q >}}
+{{< q a="Antonio Pigafetta" >}}
 In one of the junks we captured was the son of the king of Luzon. He was the captain-general of the king of Borneo, and came with those junks from a large city named Laoe, located at the end of Borneo toward Java Major. He had destroyed and sacked that city because it refused to obey the king or Borneo, but the king of Java Major instead.
-<cite>Pigafetta</cite>
 {{< /q >}}
 
 
@@ -59,20 +57,18 @@ Some old men were renowned for the accuracy of their weather forecasts. They pre
 
 ### Tight communal ties 
 
-{{< q >}}
+{{< q a="Willam Henry Scott" c="Barangay" >}}
 Indeed, blood relationship, either real of fictive, was considered essential for personal security. Men became ritual brothers, sandugo, by imbibing a few drops of each other’s blood in wine or betel nut, swearing to support and defend one another until death.
-<cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}
 
 
 ### Large boats to be able to move to other places either as refugees or colonists
 
-{{< q >}}
+{{< q a="Willam Henry Scott" c="Barangay" >}}
 With the exception of sparse populations inhabiting the interior mountain ranges, all 16th century Filipinos lived on the seacoast or the banks of navigable lakes and streams. Their only means of transportation were boats.
-<cite>Barangay, Willam Henry Scott</cite>
 {{< /q >}}
 
-![Balangay boat](/photos/objects/balangay.jpg)
+![Balangay boat](/photos/objects/boat.jpg)
 
 
 These boats were used by Maharlikans, Mahapahit, Sumatrans, and Borneans to trade and migrate between islands. The most notable migration in Maharlika was that of Datu Puti who moved to the Visayas from Sumatra to settle his pepole. 

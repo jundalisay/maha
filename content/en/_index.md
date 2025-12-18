@@ -88,7 +88,7 @@ tricon3:
       sub : "The Resources Department"      
     - title : "Why the Philippines is Poor"
       url: "/metaphysics/poor-philippines" 
-      img: "/photos/social/poverty.jpg"
+      img: "/photos/econ/poverty.jpg"
       sub : "How Low Morals Causes Chronic Poverty"  
 
 

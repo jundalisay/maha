@@ -2,11 +2,11 @@
 heading: "Low Morals"
 title: "Why is the Philippines Poor?"
 description: "The Philippines is Poor because of the decline in morals from the 16th century"
-image: "https://sorasystem.sirv.com/photos/riot.jpg"
+image: "/photos/econ/poverty.jpg"
 author: Juan
-
 date: 2021-09-02
 ---
+
 
 
 According to Adam Smith, there are three basic factors needed to be a major economic power:

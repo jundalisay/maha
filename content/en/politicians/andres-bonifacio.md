@@ -4,7 +4,7 @@ heading: "He did most of the work required for a revolution"
 description: "Currently, Jose Rizal is the national hero. But morally, it would be better for Andres Bonifacio to be the hero."
 date: 2020-04-06
 linkTitle: Bonifacio Hero
-image: /graphics/mh/boni.jpg
+image: /photos/people/bonifacio.jpg
 author: Juan
 
 ---
@@ -43,6 +43,8 @@ The disunity during revolutionary struggles is actually common:
 - The Russians were split between the Red and White armies
 - The Vietnam war split Vietnam into North and South
 
+
+![Bonifacio](/photos/people/bonifacio.jpg)
 
 
 ## Rizal is the Hero of Felipe-nos, Bonifacio is the Hero of Maharlikans
